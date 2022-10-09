@@ -28,8 +28,8 @@ ammoTypes: {
     backColor: ad4244
     despawnEffect: blastExplosion
   }
-  pyratite: artilleryIncendiary
-  blast-compound: artilleryExplosive
+  // pyratite: artilleryIncendiary
+  // blast-compound: artilleryExplosive
 }
 category: turret
 research: 0r-needle

@@ -5,7 +5,7 @@ liquidCapacity: 30
 craftTime: 35
 craftEffect: heal
 updateEffect: hitLaser
-drawer: drawMixer
+// drawer: drawMixer
 outputItem: baenite/1
 outputLiquid: water/10
 consumes: {

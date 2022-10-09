@@ -1,5 +1,5 @@
 type: GenericCrafter
-drawer: drawSmelter
+// drawer: drawSmelter
 size: 4
 hasPower: true
 hasLiquids: false
