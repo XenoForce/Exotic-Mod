@@ -1,9 +1,10 @@
 type: Wall
 health: 4600
 size: 2
-radius: 20
-shieldHealth: 11000
-cooldownNormal: 48.5
+// radius: 20
+// shieldHealth: 11000
+// cooldownNormal: 48.5
+/*
 consumes: {
   power: 1.75
   items: {
@@ -14,6 +15,7 @@ consumes: {
     optional: true
   }
 }
+*/
 requirements: [
   lead/75
   silicon/25
@@ -21,9 +23,9 @@ requirements: [
   surge-alloy/25
   bluewolframite/15
 ]
-hasItems: false
-itemCapacity: 0
-phaseUseTime: 2147483647
-phaseRadiusBoost: 0
+// hasItems: false
+// itemCapacity: 0
+// phaseUseTime: 2147483647
+// phaseRadiusBoost: 0
 category: defense
 research: force-projector

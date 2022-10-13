@@ -22,6 +22,6 @@ requirements: [
   titanium/45
   amethyst-gem/35
 ]
-drawer: drawMixer
+// drawer: drawMixer
 category: crafting
 research: cryofluid-mixer

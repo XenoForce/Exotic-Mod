@@ -2,10 +2,12 @@
 // type: BurnerGenerator
 
 size: 4
-powerProduction: 10.5
-itemDuration: 20
-minItemEfficiency: 0.4
-minLiquidEfficiency: 0.6
+outputsPower: true
+//powerProduction: 10.5
+powerOutput: 10.5
+// itemDuration: 20
+// minItemEfficiency: 0.4
+// minLiquidEfficiency: 0.6
 category: power
 research: combustion-generator
 requirements: [
