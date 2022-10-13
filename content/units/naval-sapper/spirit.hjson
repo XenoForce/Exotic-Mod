@@ -5,9 +5,9 @@ hitSize: 18
 health: 800
 armor: 6
 rotateSpeed: 6
-rotateShooting: false
-trailX: 4
-trailY: -6.75
+// rotateShooting: false
+// trailX: 4
+// trailY: -6.75
 trailScl: 2
 trailLength: 25
 lightRadius: 50

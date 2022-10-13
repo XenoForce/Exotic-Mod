@@ -16,7 +16,7 @@ weapons: [
     top: false
     recoil: 2
     inaccuracy: 10
-    shots: 10
+    // shots: 10
     x: 8.75
     y: 0.75
     shootY: 8

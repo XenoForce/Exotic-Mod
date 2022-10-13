@@ -4,9 +4,9 @@ health: 650
 range: 140
 targetGround: true
 targetAir: true
-shots: 2
-spread: 5.5
-alternate: true
+// shots: 2
+// spread: 5.5
+// alternate: true
 ammoTypes: {
   scrap: {
     damage: 5

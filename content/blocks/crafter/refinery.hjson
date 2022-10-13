@@ -4,7 +4,7 @@ itemCapacity: 125
 liquidCapacity: 90
 hasLiquids: true
 requiresWater: true
-flameColor: ffceb5
+// flameColor: ffceb5
 updateEffectChance: 0.2
 craftTime: 210
 consumes: {

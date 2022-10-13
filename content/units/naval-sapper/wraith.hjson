@@ -4,7 +4,7 @@ health: 196000
 armor: 70
 speed: 1.4
 rotateSpeed: 1.4
-rotateShooting: false
+// rotateShooting: false
 lightRadius: 100
 lightColor: a488eb
 weapons: [
@@ -107,7 +107,7 @@ weapons: [
       despawnEffect: sapExplosion
       fragLifeMin: 0.2
       fragBullets: 12
-      fragCone: 35
+      // fragCone: 35
       fragBullet: {
         type: ArtilleryBulletType
         lifetime: 100

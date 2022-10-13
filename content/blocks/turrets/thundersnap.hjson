@@ -1,9 +1,9 @@
 type: PowerTurret
 health: 177550
-reloadTime: 35
+// reloadTime: 35
 shootCone: 15
 size: 5
-shots: 4
+// shots: 4
 consumes: {
   power: 54
 }

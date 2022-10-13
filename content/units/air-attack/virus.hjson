@@ -8,7 +8,7 @@ drag: 0.02
 accel: 0.05
 rotateSpeed: 3
 engineOffset: 12
-rotateShooting: false
+// rotateShooting: false
 lightRadius: 45
 lightColor: e65555
 weapons: [

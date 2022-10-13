@@ -4,7 +4,7 @@ health: 1100000
 armor: 560
 speed: 0.8
 rotateSpeed: 0.8
-rotateShooting: false
+// rotateShooting: false
 lightRadius: 130
 lightColor: a488eb
 weapons: [
@@ -14,9 +14,9 @@ weapons: [
     y: 0
     reload: 240
     shootCone: 360
-    shotDelay: 1
+    // shotDelay: 1
     inaccuracy: 360
-    shots: 72
+    // shots: 72
     ignoreRotation: true
     shootSound: sap
     bullet: {
@@ -57,7 +57,7 @@ weapons: [
     recoil: 3.4
     rotate: true
     rotateSpeed: 4
-    shots: 3
+    // shots: 3
     xRand: 4
     shootSound: spark
     bullet: {

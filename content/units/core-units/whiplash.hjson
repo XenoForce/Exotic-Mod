@@ -39,7 +39,7 @@ weapons: [
         length: 40
         particles: 15
       }
-      updateEffect: {
+      shootEffect: {
         type: ParticleEffect
         particles: 1
         lifetime: 25
@@ -51,7 +51,7 @@ weapons: [
         region: exotic-mod-diamond-wide
       }
       hitEffect: railHit
-      updateEffectSeg: 25
+      // updateEffectSeg: 25
     }
   }
 ]

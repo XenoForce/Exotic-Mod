@@ -141,8 +141,8 @@ ammoTypes: {
     damage: 315000
     length: 980
     pierceDamageFactor: 0.75
-    updateEffectSeg: 180
-    updateEffect: {
+    // updateEffectSeg: 180
+    shootEffect: {
       type: ParticleEffect
       particles: 1
       lifetime: 30
@@ -154,7 +154,7 @@ ammoTypes: {
     }
   }
 }
-acceptCoolant: false
+// acceptCoolant: false
 category: turret
 requirements: [
   graphite/23000

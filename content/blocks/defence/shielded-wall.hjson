@@ -1,4 +1,4 @@
-type: ForceProjector
+type: Wall
 health: 4600
 size: 2
 radius: 20

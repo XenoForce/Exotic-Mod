@@ -1,4 +1,4 @@
-type: LiquidConverter
+type: GenericCrafter
 size: 3
 craftTime: 180
 hasPower: true

@@ -84,7 +84,7 @@ ammoTypes: {
     }
   }
 }
-coolantUsage: 4.2
+// coolantUsage: 4.2
 category: turret
 requirements: [
   copper/25000

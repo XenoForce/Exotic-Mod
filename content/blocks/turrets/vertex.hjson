@@ -2,10 +2,10 @@ type: PowerTurret
 size: 8
 health: 510000
 range: 80
-reloadTime: 140
-recoilAmount: -50
-restitution: 0.2
-powerUse: 1288
+// reloadTime: 140
+// recoilAmount: -50
+// restitution: 0.2
+// powerUse: 1288
 shootSound: none
 shootType: {
   type: ShrapnelBulletType
@@ -16,7 +16,7 @@ shootType: {
   toColor: ffffff
   status: exotic-mod-bleeding
 }
-coolantUsage: 2.1
+// coolantUsage: 2.1
 research: 0r-halberd
 category: turret
 requirements: [

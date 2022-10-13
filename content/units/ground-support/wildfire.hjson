@@ -3,7 +3,7 @@ hitSize: 60
 hovering: true
 drawShields: false
 allowLegStep: true
-visualElevation: 0.8
+// visualElevation: 0.8
 groundLayer: 75
 health: 1350000
 armor: 415
@@ -17,7 +17,7 @@ legExtension: -30
 legSplashDamage: 140
 legSplashRange: 65
 rippleScale: 8
-maxStretch: 1.5
+// maxStretch: 1.5
 lightRadius: 160
 lightColor: 84f591
 weapons: [
@@ -192,8 +192,8 @@ weapons: [
     reload: 180
     recoil: 12
     shootY: 20
-    shots: 2
-    shotDelay: 12
+    // shots: 2
+    // shotDelay: 12
     shootSound: laser
     shake: 5
     bullet: {
