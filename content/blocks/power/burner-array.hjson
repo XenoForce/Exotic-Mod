@@ -1,10 +1,6 @@
-
-// type: BurnerGenerator
-
+type: PowerGenerator
 size: 4
-outputsPower: true
-//powerProduction: 10.5
-powerOutput: 10.5
+powerProduction: 10.5
 // itemDuration: 20
 // minItemEfficiency: 0.4
 // minLiquidEfficiency: 0.6

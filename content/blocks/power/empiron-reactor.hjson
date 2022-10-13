@@ -1,11 +1,9 @@
-
-// type: SingleTypeGenerator
-
+type: PowerGenerator
 size: 6
 canOverdrive: false
 baseExplosiveness: 70
 liquidCapacity: 60
-itemDuration: 120
+// itemDuration: 120
 consumes: {
   liquid: {
     liquid: energia
@@ -17,6 +15,8 @@ consumes: {
     ]
   }
 }
+
+/*
 generateEffectRnd: 0
 generateEffect: {
   type: MultiEffect
@@ -104,6 +104,8 @@ generateEffect: {
     }
   ]
 }
+*/
+
 destroyEffect: {
   type: MultiEffect
   lifetime: 180
