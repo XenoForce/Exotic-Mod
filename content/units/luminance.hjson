@@ -20,7 +20,7 @@ weapons: [
     reload: 560 
     shootCone: 20
     continuous: true
-    firstShotDelay: 200
+    // firstShotDelay: 200
     inaccuracy: 180
     shootSound: pulse
     shootStatus: unmoving
@@ -35,7 +35,7 @@ weapons: [
       lifetime: 450
       layer: 99.5
       colors: [e6555525, ff9c5935, f2e87945, 84f59155, 8ca4f565, a488eb75]
-      strokes: [1.5, 1.25, 1, 0.75, 0.5, 0.25]
+      // strokes: [1.5, 1.25, 1, 0.75, 0.5, 0.25]
       lightColor: ffffff
       shootEffect: {
         type: MultiEffect
@@ -336,7 +336,7 @@ weapons: [
     reload: 120
     recoil: 8
     inaccuracy: 16
-    shots: 4
+    // shots: 4
     shootSound: shootBig
     shootY: 12
     shake: 2
@@ -348,7 +348,7 @@ weapons: [
       width: 8
       layer: 99.5
       colors: [e6555525, ff9c5935, f2e87945, 84f59155, 8ca4f565, a488eb75]
-      strokes: [1.5, 1.25, 1, 0.75, 0.5, 0.25]
+      // strokes: [1.5, 1.25, 1, 0.75, 0.5, 0.25]
       lightColor: ffffff
       shootEffect: shootBig
       smokeEffect: {
@@ -529,8 +529,8 @@ weapons: [
     x: 0
     y: 0
     rotate: true
-    shots: 10
-    shotDelay: 4
+    // shots: 10
+    // shotDelay: 4
     reload: 120
     inaccuracy: 15
     velocityRnd: 0.5
@@ -645,8 +645,8 @@ weapons: [
     x: 0
     y: 0
     rotate: true
-    shots: 10
-    shotDelay: 4
+    // shots: 10
+    // shotDelay: 4
     reload: 120
     inaccuracy: 15
     velocityRnd: 0.5
@@ -695,8 +695,8 @@ weapons: [
     x: 0
     y: 0
     rotate: true
-    shots: 10
-    shotDelay: 4
+    // shots: 10
+    // shotDelay: 4
     reload: 120
     inaccuracy: 15
     velocityRnd: 0.5
@@ -745,8 +745,8 @@ weapons: [
     x: 0
     y: 0
     rotate: true
-    shots: 10
-    shotDelay: 4
+    // shots: 10
+    // shotDelay: 4
     reload: 120
     inaccuracy: 15
     velocityRnd: 0.5
@@ -795,8 +795,8 @@ weapons: [
     x: 0
     y: 0
     rotate: true
-    shots: 10
-    shotDelay: 4
+    // shots: 10
+    // shotDelay: 4
     reload: 120
     inaccuracy: 15
     velocityRnd: 0.5
@@ -845,8 +845,8 @@ weapons: [
     x: 0
     y: 0
     rotate: true
-    shots: 10
-    shotDelay: 4
+    // shots: 10
+    // shotDelay: 4
     reload: 120
     inaccuracy: 15
     velocityRnd: 0.5
@@ -1040,8 +1040,8 @@ weapons: [
           }
         ]
       }
-      updateEffectSeg: 75
-      updateEffect: {
+      // updateEffectSeg: 75
+      shootEffect: {
         type: MultiEffect
         effects: [
           {
@@ -1122,9 +1122,9 @@ weapons: [
     shootCone: 180
     mirror: false
     reload: 1080
-    shots: 72
-    spacing: 60
-    shotDelay:  5
+    // shots: 72
+    // spacing: 60
+    // shotDelay:  5
     shootSound: none
     bullet: {
       type: ShrapnelBulletType
@@ -1141,9 +1141,9 @@ weapons: [
     shootCone: 180
     mirror: false
     reload: 1080
-    shots: 72
-    spacing: 50
-    shotDelay: 5
+    // shots: 72
+    // spacing: 50
+    // shotDelay: 5
     shootSound: none
     bullet: {
       type: ShrapnelBulletType
@@ -1160,9 +1160,9 @@ weapons: [
     shootCone: 180
     mirror: false
     reload: 1080
-    shots: 72
-    spacing: 40
-    shotDelay: 5
+    // shots: 72
+    // spacing: 40
+    // shotDelay: 5
     shootSound: none
     bullet: {
       type: ShrapnelBulletType
@@ -1179,9 +1179,9 @@ weapons: [
     shootCone: 180
     mirror: false
     reload: 1080
-    shots: 72
-    spacing: 30
-    shotDelay: 5
+    // shots: 72
+    // spacing: 30
+    // shotDelay: 5
     shootSound: none
     bullet: {
       type: ShrapnelBulletType
@@ -1198,9 +1198,9 @@ weapons: [
     shootCone: 180
     mirror: false
     reload: 1080
-    shots: 72
-    spacing: 20
-    shotDelay: 5
+    // shots: 72
+    // spacing: 20
+    // shotDelay: 5
     shootSound: none
     bullet: {
       type: ShrapnelBulletType
@@ -1217,9 +1217,9 @@ weapons: [
     shootCone: 180
     mirror: false
     reload: 1080
-    shots: 72
-    spacing: 10
-    shotDelay: 5
+    // shots: 72
+    // spacing: 10
+    // shotDelay: 5
     shootSound: none
     bullet: {
       type: ShrapnelBulletType

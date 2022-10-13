@@ -5,7 +5,7 @@ health: 18000
 armor: 8
 speed: 1.2
 rotateSpeed: 1.2
-rotateShooting: false
+// rotateShooting: false
 accel: 0.02
 drag: 0.02
 lowAltitude: true
@@ -57,8 +57,8 @@ weapons: [
     y: -8
     xRand: 12
     mirror: false
-    shotDelay: 2
-    shots: 8
+    // shotDelay: 2
+    // shots: 8
     shootCone: 180
     minShootVelocity: 0.4
     inaccuracy: 90

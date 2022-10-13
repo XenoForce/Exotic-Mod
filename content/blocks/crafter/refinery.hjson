@@ -1,4 +1,4 @@
-type: GenericSmelter
+type: GenericCrafter
 size: 6
 itemCapacity: 125
 liquidCapacity: 90

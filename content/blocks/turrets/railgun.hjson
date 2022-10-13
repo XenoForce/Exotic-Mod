@@ -3,11 +3,11 @@ targetAir: true
 targetGround: true
 health: 4500
 size: 4
-cooldown: 0.1
-restitution: 0.04
-reloadTime: 90
-shots: 1
-recoilAmount: 2
+// cooldown: 0.1
+// restitution: 0.04
+// reloadTime: 90
+// shots: 1
+// recoilAmount: 2
 ammoUseEffect: casing3
 shootEffect: hitLancer
 shootSound: railgun
@@ -23,7 +23,7 @@ ammoTypes: {
     length: 720
     ammoMultiplier: 1
     pierceDamageFactor: 0.35
-    updateEffect: {
+    shootEffect: {
       type: ParticleEffect
       lifetime: 35
       particles: 1
@@ -35,14 +35,14 @@ ammoTypes: {
       region: exotic-mod-diamond-wide
     }
     hitEffect: railHit
-    updateEffectSeg: 75
+    // updateEffectSeg: 75
   }
   bluewolframite: {
     type: RailBulletType
     damage: 15400
     length: 720
     pierceDamageFactor: 0.25
-    updateEffect: {
+    shootEffect: {
       type: ParticleEffect
       lifetime: 35
       particles: 1
@@ -54,7 +54,7 @@ ammoTypes: {
       region: exotic-mod-diamond-wide
     }
     hitEffect: railHit
-    updateEffectSeg: 75
+    // updateEffectSeg: 75
   }
 }
 requirements: [

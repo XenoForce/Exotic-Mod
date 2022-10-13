@@ -11,7 +11,7 @@ targetAir: false
 engineOffset: 8
 engineSize: 8.5
 circleTarget: true
-rotateShooting: false
+// rotateShooting: false
 omniMovement: true
 lightRadius: 65
 lightColor: e65555
@@ -38,8 +38,8 @@ weapons: [
 abilities: [
   {
     type: MoveLightningAbility
-    offset: -16
-    width: 12
+    // offset: -16
+    // width: 12
     minSpeed: 2.4
     maxSpeed: 2.4
     chance: 1

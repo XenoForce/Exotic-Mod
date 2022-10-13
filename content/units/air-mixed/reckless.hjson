@@ -5,7 +5,7 @@ flying: true
 hitSize: 25
 health: 600
 armor: 6
-rotateShooting: true
+// rotateShooting: true
 faceTarget: true
 buildSpeed: 1.7
 mineSpeed: 4
@@ -22,7 +22,7 @@ weapons: [
     y: 0
     shootY: 4
     reload: 120
-    firstShotDelay: 45
+    // firstShotDelay: 45
     shootStatus: unmoving
     shootStatusDuration: 45
     shootSound: laser

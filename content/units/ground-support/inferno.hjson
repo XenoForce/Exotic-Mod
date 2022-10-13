@@ -2,7 +2,7 @@ type: legs
 hitSize: 60
 drawShields: false
 hovering: true
-visualElevation: 0.9
+// visualElevation: 0.9
 groundLayer: 90
 engineOffset: 16
 engineSize: 0
@@ -22,7 +22,7 @@ legSpeed: 0.01
 legSplashDamage: 250
 legSplashRange: 80
 rippleScale: 8
-maxStretch: 1.5
+// maxStretch: 1.5
 allowLegStep: true
 lightRadius: 160
 lightColor: 84f591
@@ -34,8 +34,8 @@ weapons: [
     reload: 240
     recoil: 12
     shootY: 32
-    shots: 4
-    shotDelay: 2
+    // shots: 4
+    // shotDelay: 2
     shootSound: laser
     shake: 3
     bullet: {
@@ -82,8 +82,8 @@ weapons: [
     shootY: -40
     reload: 25
     xRand: 32
-    shotDelay: 5
-    shots: 5
+    // shotDelay: 5
+    // shots: 5
     shootCone: 45
     shootSound: none
     bullet: {

@@ -2,18 +2,20 @@ type: LaserTurret
 size: 10
 health: 270000
 range: 877
-reloadTime: 300
+// reloadTime: 300
 shootSound: laserbig
 loopSound: pulse
-shootLength: 32
+// shootLength: 32
 rotateSpeed: 1.5
-recoilAmount: 4
-restitution: 0.08
-powerUse: 4500
+// recoilAmount: 4
+// restitution: 0.08
+// powerUse: 4500
 shootDuration: 360
-chargeTime: 140
+// chargeTime: 140
 heatColor: ffffff
 firingMoveFract: 0
+
+/*
 chargeBeginEffect: {
   type: MultiEffect
   lifetime: 140
@@ -292,6 +294,8 @@ chargeBeginEffect: {
   ]
 }
 chargeEffect: none
+*/
+
 shootType: {
   type: ContinuousLaserBulletType
   damage: 10000

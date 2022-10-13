@@ -5,12 +5,12 @@ shootCone: 360
 baseExplosiveness: 185
 maxAmmo: 180
 range: 0
-reloadTime: 1081
+// reloadTime: 1081
 rotateSpeed: 0
-shootLength: 0
+// shootLength: 0
 canOverdrive: false
-acceptCoolant: false
-recoilAmount: 0
+// acceptCoolant: false
+// recoilAmount: 0
 shootSound: none
 shootEffect: {
   type: MultiEffect
@@ -368,7 +368,7 @@ ammoTypes: {
             hitEffect: none
             hitSound: none
             fragBullets: 1
-            fragCone: 0
+            // fragCone: 0
             fragBullet: {
               type: ShrapnelBulletType
               length: 480
@@ -397,12 +397,12 @@ ammoTypes: {
               despawnEffect: none
               hitEffect: none
               fragBullets: 2
-              fragCone: 25
+              // fragCone: 25
               fragLifeMin: 0.5
               fragLifeMax: 1.5
               fragBullet: {
                 type: EmpBulletType
-                scaleVelocity: true
+                // scaleVelocity: true
                 damage: 0
                 hitUnits: false
                 healPercent: 100

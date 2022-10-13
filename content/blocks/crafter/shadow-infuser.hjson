@@ -1,4 +1,5 @@
 type: GenericCrafter
+/*
 drawer: {
   type: drawArcSmelter
   flameColor: 353535
@@ -13,6 +14,7 @@ drawer: {
   particleStroke: 2.5
   particleLife: 60
 }
+*/
 size: 8
 itemCapacity: 20
 hasPower: true

@@ -2,10 +2,10 @@ type: PowerTurret
 size: 16
 health: 155225500
 range: 600
-recoilAmount: 14
-reloadTime: 1250
-powerUse: 255005
-shootShake: 30
+// recoilAmount: 14
+// reloadTime: 1250
+// powerUse: 255005
+// shootShake: 30
 shootEffect: {
   type: ParticleEffect
   cone: 17
@@ -31,7 +31,7 @@ shootType: {
   fadeTime: 15
   incendAmount: 1
   incendChance: 1
-  lenscales: [1, 1.2, 1.275, 1.325]
+  // lenscales: [1, 1.2, 1.275, 1.325]
   colors: [000000, 4e4e4e, a0a0a0, ffffff]
   reflectable: false
   lightning: 2

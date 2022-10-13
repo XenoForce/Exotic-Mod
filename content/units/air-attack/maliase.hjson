@@ -160,7 +160,7 @@ abilities: [
     damage: 250
     minSpeed: 1.6
     maxSpeed: 2
-    offset: 50
+    // offset: 50
     color: e65555
     chance: 0.5
   }
