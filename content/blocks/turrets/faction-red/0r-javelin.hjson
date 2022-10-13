@@ -2,17 +2,17 @@ type: ItemTurret
 size: 7
 health: 3500
 heatColor: e65555
-cooldown: 0.01
+// cooldown: 0.01
 squareSprite: false
 range: 500
-reloadTime: 10
-recoilAmount: 3
-restitution: 0.02
-shots: 3
-alternate: true
-spread: 12
+// reloadTime: 10
+// recoilAmount: 3
+// restitution: 0.02
+// shots: 3
+// alternate: true
+// spread: 12
 shootSound: shootBig
-shootShake: 3
+// shootShake: 3
 shootEffect: {
   lightScl: 1
   lightOpacity: 0.3

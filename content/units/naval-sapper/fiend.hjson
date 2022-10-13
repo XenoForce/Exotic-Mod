@@ -4,9 +4,9 @@ health: 16000
 armor: 12
 speed: 0.8
 rotateSpeed: 1.8
-rotateShooting: false
-trailX: 4
-trailY: -16
+// rotateShooting: false
+// trailX: 4
+// trailY: -16
 trailScl: 1
 trailLength: 50
 lightColor: a488eb
@@ -45,9 +45,9 @@ weapons: [
     shootCone: 360
     reload: 240
     mirror: false
-    shots: 45
-    spacing: 8
-    shotDelay: 1
+    // shots: 45
+    // spacing: 8
+    // shotDelay: 1
     shootSound: none
     bullet: {
       type: SapBulletType

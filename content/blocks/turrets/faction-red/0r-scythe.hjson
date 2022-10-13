@@ -4,14 +4,14 @@ targetAir: false
 range: 240
 health: 500
 inaccuracy: 4
-reloadTime: 70
-recoilAmount: 3
-velocityInaccuracy: 0.1
-shots: 2
+// reloadTime: 70
+// recoilAmount: 3
+// velocityInaccuracy: 0.1
+// shots: 2
 shootEffect: shootBig
 smokeEffect: shootBigSmoke
 shootSound: artillery
-shootShake: 0.75
+// shootShake: 0.75
 ammoUseEffect: casing2
 ammoTypes: {
   anden: {

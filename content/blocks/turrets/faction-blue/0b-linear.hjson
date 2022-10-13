@@ -2,16 +2,16 @@ type: PowerTurret
 size: 4
 targetGround: false
 health: 3100
-powerUse: 18
+// powerUse: 18
 range: 360
-reloadTime: 300
-recoilAmount: 3
+// reloadTime: 300
+// recoilAmount: 3
 rotateSpeed: 2.5
-shots: 3
-burstSpacing: 10
-shootLength: 0
+// shots: 3
+// burstSpacing: 10
+// shootLength: 0
 shootSound: sap
-shootShake: 0.5
+// shootShake: 0.5
 shootEffect: none
 smokeEffect: none
 shootType: {

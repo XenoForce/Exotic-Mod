@@ -3,13 +3,13 @@ size: 8
 liquidCapacity: 600
 health: 450000
 range: 212
-powerUse: 1640
+// powerUse: 1640
 rotateSpeed: 2.5
-reloadTime: 120
-recoilAmount: 8
-restitution: 0.02
-shots: 5
-spread: 15
+// reloadTime: 120
+// recoilAmount: 8
+// restitution: 0.02
+// shots: 5
+// spread: 15
 shootSound: shootBig
 shootType: {
   type: ContinuousLaserBulletType
@@ -36,7 +36,7 @@ shootType: {
     colorTo: 7382f050
   }
 }
-coolantUsage: 3.5
+// coolantUsage: 3.5
 coolantMultiplier: 0.7
 category: turret
 requirements: [

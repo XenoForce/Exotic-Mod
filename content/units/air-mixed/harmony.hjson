@@ -79,7 +79,7 @@ weapons: [
           }
         ]
       }
-      updateEffect: {
+      shootEffect: {
         type: ParticleEffect
         particles: 1
         length: 0
@@ -89,7 +89,7 @@ weapons: [
         colorTo: 8ca4f5
         region: exotic-mod-diamond-wide
       }
-      updateEffectSeg: 75
+      // updateEffectSeg: 75
     }
   }
 ]

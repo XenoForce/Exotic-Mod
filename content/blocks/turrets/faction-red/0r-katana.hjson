@@ -2,15 +2,15 @@ type: ItemTurret
 size: 3
 health: 1000
 range: 220
-reloadTime: 15
-recoilAmount: 1.5
-restitution: 0.08
-shots: 3
+// reloadTime: 15
+// recoilAmount: 1.5
+// restitution: 0.08
+// shots: 3
 shootEffect: shootBig
 smokeEffect: shootBigSmoke
-shootShake: 0.5
+// shootShake: 0.5
 shootSound: artillery
-alternate: true
+// alternate: true
 ammoTypes: {
   anden: {
     damage: 25
@@ -33,15 +33,15 @@ ammoTypes: {
     despawnEffect: none
     hitEffect: none
     fragBullets: 1
-    fragCone: 0
+    // fragCone: 0
     fragBullet: {
       type: RailBulletType
       damage: 25
       length: 180
       pierceDamageFactor: 0
       pierceEffect: none
-      updateEffectSeg: 40
-      updateEffect: {
+      // updateEffectSeg: 40
+      shootEffect: {
         type: ParticleEffect
         particles: 1
         length: 0

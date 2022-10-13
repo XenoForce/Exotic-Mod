@@ -4,9 +4,9 @@ health: 2000000
 armor: 600
 speed: 0.6
 rotateSpeed: 0.4
-rotateShooting: false
-trailX: 24
-trailY: -72
+// rotateShooting: false
+// trailX: 24
+// trailY: -72
 trailLength: 80
 trailScl: 7
 lightColor: bf92f9
@@ -19,8 +19,8 @@ weapons: [
     reload: 380
     mirror: false
     shootCone: 360
-    shots: 35
-    shotDelay: 2
+    // shots: 35
+    // shotDelay: 2
     inaccuracy: 180
     shootSound: spark
     shake: 6
@@ -47,11 +47,11 @@ weapons: [
     x: 55
     y: 14
     rotate: true
-    shots: 2
-    shotDelay: 12
+    // shots: 2
+    // shotDelay: 12
     alternate: true
     reload: 12
-    spacing: 6
+    // spacing: 6
     shootSound: missile
     ejectEffect: casing2
     bullet: {
@@ -79,11 +79,11 @@ weapons: [
     x: 54.75
     y: -14
     rotate: true
-    shots: 2
-    shotDelay: 12
+    // shots: 2
+    // shotDelay: 12
     alternate: true
     reload: 12
-    spacing: 6
+    // spacing: 6
     shootSound: missile
     ejectEffect: casing2
     bullet: {
@@ -150,9 +150,9 @@ weapons: [
     rotate: true
     rotateSpeed: 4.5
     reload: 15
-    shots: 3
+    // shots: 3
     xRand: 6
-    shotDelay: 5
+    // shotDelay: 5
     mirror: false
     shootSound: shootBig
     ejectEffect: casing3Double
@@ -181,7 +181,7 @@ weapons: [
       lightningDamage: 75
       lightningColor: bf92f9
       fragBullets: 4
-      fragCone: 13
+      // fragCone: 13
       fragBullet: {
         type: SapBulletType
         damage: 150

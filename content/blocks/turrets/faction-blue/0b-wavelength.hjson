@@ -2,12 +2,12 @@ type: PowerTurret
 range: 150
 size: 2
 health: 700
-reloadTime: 30
+// reloadTime: 30
 rotateSpeed: 3
-powerUse: 5
-shots: 2
-spread: 6
-alternate: true
+// powerUse: 5
+// shots: 2
+// spread: 6
+// alternate: true
 shootSound: sap
 shootEffect: shootSmall
 smokeEffect: {

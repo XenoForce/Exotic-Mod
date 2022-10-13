@@ -11,7 +11,7 @@ engineOffset: 44
 engineSize: 10
 lowAltitude: true
 circleTarget: true
-rotateShooting: false
+// rotateShooting: false
 lightRadius: 90
 lightColor: e65555
 weapons: [
@@ -165,7 +165,7 @@ abilities: [
     length: 12
     minSpeed: 1.4
     maxSpeed: 1.8
-    offset: 44
+    // offset: 44
     color: e65555
   }
 ]

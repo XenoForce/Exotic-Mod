@@ -2,8 +2,8 @@ type: ItemTurret
 size: 2
 health: 650
 range: 250
-recoilAmount: 3
-reloadTime: 160
+// recoilAmount: 3
+// reloadTime: 160
 rotateSpeed: 3
 consumes: {
   power: 3
@@ -11,7 +11,7 @@ consumes: {
 coolantMultiplier: 0.3
 ammoPerShot: 3
 shootSound: railgun
-shootShake: 2.5
+// shootShake: 2.5
 ammoTypes: {
   silicon: {
     type: RailBulletType
@@ -20,7 +20,7 @@ ammoTypes: {
     ammoMultiplier: 1
     reloadMultiplier: 1.4
     length: 250
-    updateEffect: {
+    shootEffect: {
       type: ParticleEffect
       particles: 1
       length: 0
@@ -31,7 +31,7 @@ ammoTypes: {
       colorTo: "6e7080"
       region: exotic-mod-diamond-wide
     }
-    updateEffectSeg: 50
+    // updateEffectSeg: 50
     pierceEffect: none
     smokeEffect: {
       type: ParticleEffect
@@ -54,7 +54,7 @@ ammoTypes: {
     pierceDamageFactor: 0.8
     ammoMultiplier: 1
     length: 250
-    updateEffect: {
+    shootEffect: {
       type: ParticleEffect
       particles: 1
       length: 0
@@ -65,7 +65,7 @@ ammoTypes: {
       colorTo: 7382f0
       region: exotic-mod-diamond-wide
     }
-    updateEffectSeg: 50
+    // updateEffectSeg: 50
     pierceEffect: none
     smokeEffect: {
       type: ParticleEffect

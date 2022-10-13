@@ -18,7 +18,7 @@ ammoType: {
   type: PowerAmmoType
   totalPower: 1500000
 }
-commandRadius: 240
+// commandRadius: 240
 weapons: [
   {
     name: hellfire-laser
@@ -27,11 +27,11 @@ weapons: [
     mirror: false
     shootY: 16
     reload: 300
-    firstShotDelay: 165
+    // firstShotDelay: 165
     shootStatus: exotic-mod-stopped
     shootStatusDuration: 170
-    shots: 2
-    shotDelay: 2
+    // shots: 2
+    // shotDelay: 2
     shootSound: laserblast
     shake: 15
     bullet: {
@@ -164,7 +164,7 @@ weapons: [
           }
         ]
       }
-      updateEffect: {
+      shootEffect: {
         type: ParticleEffect
         particles: 1
         length: 0
@@ -174,7 +174,7 @@ weapons: [
         colorTo: 8ca4f5
         region: exotic-mod-diamond-wide
       }
-      updateEffectSeg: 125
+      // updateEffectSeg: 125
     }
   }
   {
@@ -184,8 +184,8 @@ weapons: [
     shootY: 8
     rotate: true
     reload: 10
-    shots: 2
-    spacing: 15
+    // shots: 2
+    // spacing: 15
     shootSound: shotgun
     shake: 1
     bullet: {
@@ -207,8 +207,8 @@ weapons: [
     shootY: 8
     rotate: true
     reload: 25
-    shots: 3
-    spacing: 15
+    // shots: 3
+    // spacing: 15
     shootSound: shotgun
     shake: 1
     bullet: {

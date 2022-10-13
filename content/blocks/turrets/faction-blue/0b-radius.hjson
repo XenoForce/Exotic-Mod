@@ -1,13 +1,14 @@
 type: PowerTurret
 targetAir: false
 health: 200
-reloadTime: 65
+// reloadTime: 65
 range: 90
 shootSound: laser
 heatColor: ff0000
-powerUse: 1.2
-shootShake: 1
-chargeTime: 30
+// powerUse: 1.2
+// shootShake: 1
+// chargeTime: 30
+/*
 chargeBeginEffect: {
   type: ParticleEffect
   lifetime: 30
@@ -31,6 +32,7 @@ chargeEffect: {
   lenTo: 3
   colorFrom: 7382f0
 }
+*/
 shootType: {
   type: LaserBulletType
   length: 88

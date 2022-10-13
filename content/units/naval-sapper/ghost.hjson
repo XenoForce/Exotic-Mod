@@ -7,7 +7,7 @@ hitSize: 60
 health: 67500
 armor: 45
 rotateSpeed: 3
-rotateShooting: false
+// rotateShooting: false
 lightRadius: 75
 lightColor: a488eb
 weapons: [

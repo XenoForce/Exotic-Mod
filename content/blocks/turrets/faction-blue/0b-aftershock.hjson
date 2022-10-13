@@ -2,18 +2,18 @@ type: PowerTurret
 targetAir: false
 size: 4
 rotateSpeed: 0
-powerUse: 10
+// powerUse: 10
 shootCone: 360
 health: 2600
 range: 210
 shootEffect: none
 smokeEffect: none
-shots: 15
-burstSpacing: 8
-reloadTime: 360
-recoilAmount: 0
-shootShake: 8
-shootLength: 0
+// shots: 15
+// burstSpacing: 8
+// reloadTime: 360
+// recoilAmount: 0
+// shootShake: 8
+// shootLength: 0
 shootSound: none
 shootType: {
   damage: 0

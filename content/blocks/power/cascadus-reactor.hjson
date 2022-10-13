@@ -1,4 +1,6 @@
-type: SingleTypeGenerator
+
+// type: SingleTypeGenerator
+
 size: 10
 canOverdrive: false
 liquidCapacity: 400

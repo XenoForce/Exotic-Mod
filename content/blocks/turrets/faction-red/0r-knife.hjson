@@ -1,9 +1,9 @@
 type: ItemTurret
 health: 240
 range: 120
-reloadTime: 35
+// reloadTime: 35
 inaccuracy: 10
-velocityInaccuracy: 0.7
+// velocityInaccuracy: 0.7
 shootEffect: shootSmall
 smokeEffect: shootSmallSmoke
 ammoUseEffect: casing1

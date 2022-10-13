@@ -2,10 +2,10 @@ type: ItemTurret
 size: 8
 range: 800
 health: 256000
-reloadTime: 65
-recoilAmount: 6
+// reloadTime: 65
+// recoilAmount: 6
 rotateSpeed: 3.5
-coolantUsage: 4
+// coolantUsage: 4
 coolantMultiplier: 0.6
 ammoPerShot: 8
 shootSound: artillery

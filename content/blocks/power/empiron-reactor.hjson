@@ -1,4 +1,6 @@
-type: SingleTypeGenerator
+
+// type: SingleTypeGenerator
+
 size: 6
 canOverdrive: false
 baseExplosiveness: 70

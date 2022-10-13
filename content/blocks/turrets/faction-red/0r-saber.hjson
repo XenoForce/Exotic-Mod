@@ -2,11 +2,11 @@ type: ItemTurret
 size: 2
 health: 1100
 range: 56
-reloadTime: 45
-shots: 3
-spread: 16
+// reloadTime: 45
+// shots: 3
+// spread: 16
 shootSound: shotgun
-shootShake: 0.75
+// shootShake: 0.75
 ammoTypes: {
   anden: {
     type: ShrapnelBulletType

@@ -2,7 +2,7 @@ type: naval
 hitSize: 80
 speed: 0.8
 rotateSpeed: 1
-rotateShooting: false
+// rotateShooting: false
 health: 520000
 armor: 150
 buildSpeed: 2.5
@@ -13,8 +13,8 @@ fallSpeed: 0.0045
 boostMultiplier: 0.35
 engineOffset: 30
 engineSize: 12
-trailX: 18
-trailY: -46
+// trailX: 18
+// trailY: -46
 trailScl: 4
 trailLength: 60
 lightRadius: 110

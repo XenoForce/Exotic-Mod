@@ -4,8 +4,8 @@ liquidCapacity: 1400
 size: 8
 hasLiquids: true
 powerProduction: 436550
-plasma1: 666666
-plasma2: 3b3b3b
+// plasma1: 666666
+// plasma2: 3b3b3b
 consumes: {
   power: 15430
   items: {

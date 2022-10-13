@@ -8,8 +8,8 @@ drawCell: false
 drawShields: false
 lightRadius: 150
 lightOpacity: 0.11
-trailX: 40
-trailY: -70
+// trailX: 40
+// trailY: -70
 trailScl: 8
 trailLength: 150
 ammoType: {
@@ -362,7 +362,7 @@ weapons: [
     rotate: true
     mirror: false
     reload: 480
-    firstShotDelay: 120
+    // firstShotDelay: 120
     shootStatus: unmoving
     shootStatusDuration: 120
     shootSound: none

@@ -3,14 +3,14 @@ placeableLiquid: true
 squareSprite: false
 size: 6
 health: 27000
-reloadTime: 3
+// reloadTime: 3
 rotateSpeed: 4.1
-shots: 4
-velocityInaccuracy: 0.25
+// shots: 4
+// velocityInaccuracy: 0.25
 inaccuracy: 1
-spread: 0
+// spread: 0
 range: 720
-shootLength: 12
+// shootLength: 12
 shootEffect: shootLiquid
 ammoTypes: {
   water: {

@@ -19,8 +19,8 @@ weapons: [
     y: 0
     reload: 15
     recoil: 6
-    shots: 3
-    shotDelay: 2
+    // shots: 3
+    // shotDelay: 2
     shootY: 28
     shootSound: bang
     top: false

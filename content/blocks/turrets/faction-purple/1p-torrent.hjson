@@ -4,10 +4,10 @@ squareSprite: false
 requiresWater: true
 range: 240
 health: 1100
-reloadTime: 3
-shots: 3
+// reloadTime: 3
+// shots: 3
 inaccuracy: 0.5
-velocityInaccuracy: 0.5
+// velocityInaccuracy: 0.5
 shootEffect: {
   type: ParticleEffect
   cone: 5

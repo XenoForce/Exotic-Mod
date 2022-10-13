@@ -15,7 +15,7 @@ engineSize: 10
 lightRadius: 130
 lightColor: 5a58c4
 lowAltitude: true
-visualElevation: 1.4
+// visualElevation: 1.4
 ammoType: {
   type: PowerAmmoType
   totalPower: 750000
@@ -29,8 +29,8 @@ weapons: [
     x: 0
     y: 0
     reload: 480
-    shots: 20
-    shotDelay: 5
+    // shots: 20
+    // shotDelay: 5
     shootCone: 360
     shootSound: none
     shake: 4
@@ -113,7 +113,7 @@ weapons: [
     recoil: 0
     heatColor: 7382f0
     mirror: false
-    firstShotDelay: 210
+    // firstShotDelay: 210
     cooldownTime: 800
     shootSound: beam
     shootStatus: exotic-mod-overburn

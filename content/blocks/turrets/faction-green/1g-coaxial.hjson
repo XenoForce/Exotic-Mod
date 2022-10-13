@@ -1,13 +1,13 @@
 type: PowerTurret
 size: 2
 health: 700
-reloadTime: 15
+// reloadTime: 15
 range: 180
-shots: 3
-alternate: true
+// shots: 3
+// alternate: true
 inaccuracy: 3
 xRand: 4
-powerUse: 4.5
+// powerUse: 4.5
 targetHealing: true
 shootSound: lasershoot
 shootType: {

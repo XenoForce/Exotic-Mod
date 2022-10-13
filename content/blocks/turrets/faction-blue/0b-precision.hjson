@@ -1,16 +1,16 @@
 type: PowerTurret
 size: 3
 health: 850
-powerUse: 12
+// powerUse: 12
 rotateSpeed: 3.5
-reloadTime: 5
-recoilAmount: 2
+// reloadTime: 5
+// recoilAmount: 2
 range: 140
-shootShake: 1
+// shootShake: 1
 shootSound: none
 shootEffect: none
 smokeEffect: none
-shootLength: 8
+// shootLength: 8
 shootType: {
   type: ContinuousLaserBulletType
   damage: 12

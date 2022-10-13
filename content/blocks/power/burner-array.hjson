@@ -1,4 +1,6 @@
-type: BurnerGenerator
+
+// type: BurnerGenerator
+
 size: 4
 powerProduction: 10.5
 itemDuration: 20

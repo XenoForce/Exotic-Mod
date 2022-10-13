@@ -1,17 +1,17 @@
 type: PowerTurret
 size: 4
 health: 2800
-reloadTime: 110
-powerUse: 15.5
+// reloadTime: 110
+// powerUse: 15.5
 range: 180
-shots: 20
+// shots: 20
 inaccuracy: 18
-spread: 0
-velocityInaccuracy: 0.8
+// spread: 0
+// velocityInaccuracy: 0.8
 targetHealing: true
 shootSound: shootBig
-shootShake: 3
-recoilAmount: 5
+// shootShake: 3
+// recoilAmount: 5
 shootType: {
   type: ContinuousLaserBulletType
   damage: 20

@@ -6,7 +6,7 @@ armor: 75
 speed: 0.5
 buildSpeed: 1.4
 rotateSpeed: 2.4
-commandLimit: 6
+// commandLimit: 6
 singleTarget: true
 lightRadius: 75
 lightColor: 84f591
@@ -16,8 +16,8 @@ weapons: [
     x: 17.5
     y: 0
     shootY: 12
-    shots: 2
-    shotDelay: 6
+    // shots: 2
+    // shotDelay: 6
     reload: 15
     recoil: 4
     top: false

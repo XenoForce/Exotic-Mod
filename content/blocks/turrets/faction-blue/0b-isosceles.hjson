@@ -3,10 +3,10 @@ size: 3
 health: 1300
 range: 170
 rotateSpeed: 4
-reloadTime: 160
-recoilAmount: 5
-powerUse: 8
-shootLength: 7
+// reloadTime: 160
+// recoilAmount: 5
+// powerUse: 8
+// shootLength: 7
 shootEffect: shootBig
 smokeEffect: {
   type: ParticleEffect
@@ -22,7 +22,7 @@ smokeEffect: {
   colorTo: 7382f0
 }
 shootSound: laserbig
-shootShake: 2
+// shootShake: 2
 shootType: {
   type: ContinuousLaserBulletType
   damage: 75

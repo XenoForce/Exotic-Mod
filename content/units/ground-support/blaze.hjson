@@ -3,7 +3,7 @@ hitSize: 48
 hovering: true
 drawShields: false
 groundLayer: 75
-visualElevation: 0.7
+// visualElevation: 0.7
 health: 550000
 armor: 175
 speed: 0.8
@@ -19,7 +19,7 @@ legSpeed: 0.01
 legSplashDamage: 110
 legSplashRange: 72
 rippleScale: 6
-maxStretch: 1.25
+// maxStretch: 1.25
 allowLegStep: true
 lightRadius: 100
 lightColor: 84f591

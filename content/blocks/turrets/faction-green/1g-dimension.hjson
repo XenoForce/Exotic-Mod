@@ -1,11 +1,11 @@
 type: PowerTurret
 health: 260
-reloadTime: 30
+// reloadTime: 30
 range: 120
-shots: 2
-burstSpacing: 3
-spread: 0
-powerUse: 0.85
+// shots: 2
+// burstSpacing: 3
+// spread: 0
+// powerUse: 0.85
 targetHealing: true
 shootSound: lasershoot
 shootType: {

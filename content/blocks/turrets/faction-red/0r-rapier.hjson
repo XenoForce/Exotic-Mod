@@ -2,16 +2,16 @@ type: ItemTurret
 size: 2
 health: 600
 range: 150
-reloadTime: 20
-recoilAmount: 2
-restitution: 0.05
-shots: 2
-alternate: true
-spread: 7
+// reloadTime: 20
+// recoilAmount: 2
+// restitution: 0.05
+// shots: 2
+// alternate: true
+// spread: 7
 shootSound: shootBig
 shootEffect: shootBig
 smokeEffect: shootBigSmoke
-shootShake: 0.5
+// shootShake: 0.5
 ammoUseEffect: casing3Double
 ammoTypes: {
   anden: {
@@ -28,7 +28,7 @@ ammoTypes: {
     hitSound: explosion
     hitShake: 1
     fragBullets: 3
-    fragCone: 15
+    // fragCone: 15
     fragVelocityMax: 1.5
     fragBullet: {
       damage: 10
@@ -53,7 +53,7 @@ ammoTypes: {
     reloadMultiplier: 0.6
     despawnEffect: flakExplosion
     fragBullets: 2
-    fragCone: 15
+    // fragCone: 15
     fragVelocityMax: 1.5
     fragBullet: {
       damage: 16
