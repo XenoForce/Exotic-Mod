@@ -5,7 +5,13 @@ requiresWater: true
 range: 240
 health: 1100
 reload: 3
-// shots: 3
+
+shoot: {
+  type: ShootSpread
+  shots: 3
+  spread: 0
+}
+
 inaccuracy: 0.5
 // velocityInaccuracy: 0.5
 shootEffect: {

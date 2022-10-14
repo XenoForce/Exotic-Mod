@@ -3,8 +3,15 @@ size: 2
 health: 700
 reload: 15
 range: 180
-// shots: 3
-// alternate: true
+
+shoot: {
+  type: ShootAlternate
+  shots: 3
+  spread: 0
+  barrels: 2
+  barrelOffset: 1
+}
+
 inaccuracy: 3
 xRand: 4
 // powerUse: 4.5

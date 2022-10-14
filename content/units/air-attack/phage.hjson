@@ -57,8 +57,12 @@ weapons: [
     y: -8
     xRand: 12
     mirror: false
-    // shotDelay: 2
-    // shots: 8
+    shoot: {
+      type: ShootSpread
+      shots: 8
+      shotDelay: 2
+      spread: 0
+    }
     shootCone: 180
     minShootVelocity: 0.4
     inaccuracy: 90

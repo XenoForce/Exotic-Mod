@@ -45,9 +45,12 @@ weapons: [
     shootCone: 360
     reload: 240
     mirror: false
-    // shots: 45
-    // spacing: 8
-    // shotDelay: 1
+    shoot: {
+      type: ShootSpread
+      shots: 45
+      shotDelay: 1
+      spread: 8
+    }
     shootSound: none
     bullet: {
       type: SapBulletType

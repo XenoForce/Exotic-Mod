@@ -7,7 +7,13 @@ inaccuracy: 4
 reload: 70
 // recoilAmount: 3
 // velocityInaccuracy: 0.1
-// shots: 2
+
+shoot: {
+  type: ShootSpread
+  shots: 2
+  spread: 0
+}
+
 shootEffect: shootBig
 smokeEffect: shootBigSmoke
 shootSound: artillery

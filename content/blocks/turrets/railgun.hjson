@@ -6,7 +6,13 @@ size: 4
 // cooldown: 0.1
 // restitution: 0.04
 reload: 90
-// shots: 1
+
+shoot: {
+  type: ShootSpread
+  shots: 1
+  spread: 0
+}
+
 // recoilAmount: 2
 ammoUseEffect: casing3
 shootEffect: hitLancer

@@ -5,7 +5,13 @@ range: 220
 reload: 15
 // recoilAmount: 1.5
 // restitution: 0.08
-// shots: 3
+
+shoot: {
+  type: ShootSpread
+  shots: 3
+  spread: 0
+}
+
 shootEffect: shootBig
 smokeEffect: shootBigSmoke
 // shootShake: 0.5

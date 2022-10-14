@@ -14,9 +14,13 @@ weapons: [
     y: 0
     reload: 240
     shootCone: 360
-    // shotDelay: 1
+    shoot: {
+      type: ShootSpread
+      shots: 72
+      shotDelay: 1
+      spread: 0
+    }
     inaccuracy: 360
-    // shots: 72
     ignoreRotation: true
     shootSound: sap
     bullet: {
@@ -57,7 +61,11 @@ weapons: [
     recoil: 3.4
     rotate: true
     rotateSpeed: 4
-    // shots: 3
+    shoot: {
+      type: ShootSpread
+      shots: 3
+      spread: 0
+    }
     xRand: 4
     shootSound: spark
     bullet: {

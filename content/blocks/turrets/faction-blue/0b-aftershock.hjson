@@ -8,8 +8,13 @@ health: 2600
 range: 210
 shootEffect: none
 smokeEffect: none
-// shots: 15
-// burstSpacing: 8
+
+shoot: {
+  type: ShootSpread
+  shots: 15
+  spread: 8
+}
+
 reload: 360
 // recoilAmount: 0
 // shootShake: 8

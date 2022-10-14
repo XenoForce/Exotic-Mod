@@ -18,8 +18,11 @@ weapons: [
   mirror: false
   shootSound: shotgun
   shootCone: 10
-  // shots: 3
-  // spacing: 15
+  shoot: {
+    type: ShootSpread
+    shots: 3
+    spread: 15
+  }
   x: 0
   y: 10
   reload: 35

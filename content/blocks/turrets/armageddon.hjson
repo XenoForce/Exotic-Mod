@@ -5,7 +5,13 @@ health: 19500
 size: 4
 inaccuracy: 12
 reload: 1
-// shots: 9
+
+shoot: {
+  type: ShootSpread
+  shots: 9
+  spread: 0
+}
+
 // recoilAmount: 10
 ammoUseEffect: casing3
 shootCone: 25
