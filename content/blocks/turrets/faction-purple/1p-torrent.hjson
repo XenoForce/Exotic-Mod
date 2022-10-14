@@ -13,7 +13,7 @@ shoot: {
 }
 
 inaccuracy: 0.5
-// velocityInaccuracy: 0.5
+
 shootEffect: {
   type: ParticleEffect
   cone: 5
@@ -26,6 +26,7 @@ shootEffect: {
   colorFrom: 596ab8
   colorTo: 596ab825
 }
+
 ammoTypes: {
   water: {
     type: LiquidBulletType

@@ -11,8 +11,7 @@ shoot: {
   spread: 0
 }
 
-inaccuracy: 18
-// velocityInaccuracy: 0.8
+inaccuracy: 3
 targetHealing: true
 shootSound: shootBig
 shake: 3

@@ -12,7 +12,6 @@ shoot: {
   spread: 0
 }
 
-// velocityInaccuracy: 0.25
 inaccuracy: 1
 range: 720
 // shootLength: 12

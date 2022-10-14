@@ -3,10 +3,9 @@ size: 2
 targetAir: false
 range: 240
 health: 500
-inaccuracy: 4
+inaccuracy: 2
 reload: 70
 recoil: 3
-// velocityInaccuracy: 0.1
 
 shoot: {
   type: ShootSpread
