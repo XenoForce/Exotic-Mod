@@ -17,7 +17,7 @@ shoot: {
 shootSound: shootBig
 shootEffect: shootBig
 smokeEffect: shootBigSmoke
-// shootShake: 0.5
+shake: 0.5
 ammoUseEffect: casing3Double
 ammoTypes: {
   anden: {

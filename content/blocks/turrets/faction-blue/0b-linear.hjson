@@ -16,7 +16,7 @@ shoot: {
 
 // shootLength: 0
 shootSound: sap
-// shootShake: 0.5
+shake: 0.5
 shootEffect: none
 smokeEffect: none
 shootType: {

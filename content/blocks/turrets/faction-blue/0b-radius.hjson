@@ -6,7 +6,7 @@ range: 90
 shootSound: laser
 heatColor: ff0000
 // powerUse: 1.2
-// shootShake: 1
+shake: 1
 // chargeTime: 30
 /*
 chargeBeginEffect: {

@@ -8,7 +8,7 @@ reload: 15
 // restitution: 0.25
 rotateSpeed: 12
 shootSound: none
-// shootShake: 2
+shake: 2
 // acceptCoolant: false
 ammoTypes: {
   blast-compound: {

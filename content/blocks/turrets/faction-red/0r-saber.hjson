@@ -11,7 +11,7 @@ shoot: {
 }
 
 shootSound: shotgun
-// shootShake: 0.75
+shake: 0.75
 ammoTypes: {
   anden: {
     type: ShrapnelBulletType

@@ -7,7 +7,7 @@ reload: 150
 rotateSpeed: 3.4
 targetHealing: true
 shootSound: laser
-// shootShake: 1.5
+shake: 1.5
 shootType: {
   type: EmpBulletType
   // scaleVelocity: true

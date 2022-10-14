@@ -15,7 +15,7 @@ alternate: true
 shots: 7
 spread: 3
 shootCone: 20
-shootShake: 0.5
+shake: 0.5
 inaccuracy: 1.5
 recoilAmount: 3
 size: 3

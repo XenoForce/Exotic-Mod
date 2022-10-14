@@ -14,7 +14,7 @@ shoot: {
 
 shootEffect: shootBig
 smokeEffect: shootBigSmoke
-// shootShake: 0.5
+shake: 0.5
 shootSound: artillery
 // alternate: true
 ammoTypes: {

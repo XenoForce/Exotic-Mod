@@ -11,7 +11,7 @@ consumes: {
 coolantMultiplier: 0.3
 ammoPerShot: 3
 shootSound: railgun
-// shootShake: 2.5
+shake: 2.5
 ammoTypes: {
   silicon: {
     type: RailBulletType
