@@ -34,8 +34,8 @@ ammoTypes: {
     hitSound: explosion
     hitShake: 1
     fragBullets: 3
-    // fragCone: 15
     fragVelocityMax: 1.5
+    
     fragBullet: {
       damage: 10
       pierce: true
@@ -59,8 +59,8 @@ ammoTypes: {
     reloadMultiplier: 0.6
     despawnEffect: flakExplosion
     fragBullets: 2
-    // fragCone: 15
     fragVelocityMax: 1.5
+    
     fragBullet: {
       damage: 16
       pierce: true

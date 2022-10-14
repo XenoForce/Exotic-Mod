@@ -195,7 +195,7 @@ weapons: [
       lightningDamage: 75
       lightningColor: bf92f9
       fragBullets: 4
-      // fragCone: 13
+      
       fragBullet: {
         type: SapBulletType
         damage: 150

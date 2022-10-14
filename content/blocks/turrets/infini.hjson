@@ -368,7 +368,7 @@ ammoTypes: {
             hitEffect: none
             hitSound: none
             fragBullets: 1
-            // fragCone: 0
+            
             fragBullet: {
               type: ShrapnelBulletType
               length: 480
@@ -397,9 +397,9 @@ ammoTypes: {
               despawnEffect: none
               hitEffect: none
               fragBullets: 2
-              // fragCone: 25
               fragLifeMin: 0.5
               fragLifeMax: 1.5
+              
               fragBullet: {
                 type: EmpBulletType
                 // scaleVelocity: true

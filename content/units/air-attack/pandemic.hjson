@@ -46,7 +46,7 @@ weapons: [
       shrinkY: 0
       despawnEffect: none
       fragBullets: 1
-      // fragCone: 0
+      
       fragBullet: {
         type: RailBulletType
         damage: 13500
@@ -95,7 +95,7 @@ weapons: [
       shrinkY: 0
       despawnEffect: none
       fragBullets: 1
-      // fragCone: 0
+      
       fragBullet: {
         type: RailBulletType
         damage: 6500
@@ -144,7 +144,7 @@ weapons: [
       shrinkY: 0
       despawnEffect: none
       fragBullets: 1
-      // fragCone: 0
+      
       fragBullet: {
         type: RailBulletType
         damage: 2600

@@ -107,7 +107,7 @@ weapons: [
       despawnEffect: sapExplosion
       fragLifeMin: 0.2
       fragBullets: 12
-      // fragCone: 35
+      
       fragBullet: {
         type: ArtilleryBulletType
         lifetime: 100

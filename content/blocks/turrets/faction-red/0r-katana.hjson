@@ -39,7 +39,7 @@ ammoTypes: {
     despawnEffect: none
     hitEffect: none
     fragBullets: 1
-    // fragCone: 0
+    
     fragBullet: {
       type: RailBulletType
       damage: 25
