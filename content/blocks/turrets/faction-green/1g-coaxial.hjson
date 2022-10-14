@@ -1,7 +1,7 @@
 type: PowerTurret
 size: 2
 health: 700
-// reloadTime: 15
+reload: 15
 range: 180
 // shots: 3
 // alternate: true

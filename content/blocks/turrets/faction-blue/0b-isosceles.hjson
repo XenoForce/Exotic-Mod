@@ -3,7 +3,7 @@ size: 3
 health: 1300
 range: 170
 rotateSpeed: 4
-// reloadTime: 160
+reload: 160
 // recoilAmount: 5
 // powerUse: 8
 // shootLength: 7

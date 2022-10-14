@@ -4,7 +4,7 @@ targetGround: true
 health: 19500
 size: 4
 inaccuracy: 12
-// reloadTime: 1
+reload: 1
 // shots: 9
 // recoilAmount: 10
 ammoUseEffect: casing3

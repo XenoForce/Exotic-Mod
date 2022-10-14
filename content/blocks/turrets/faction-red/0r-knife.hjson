@@ -1,7 +1,7 @@
 type: ItemTurret
 health: 240
 range: 120
-// reloadTime: 35
+reload: 35
 inaccuracy: 10
 // velocityInaccuracy: 0.7
 shootEffect: shootSmall

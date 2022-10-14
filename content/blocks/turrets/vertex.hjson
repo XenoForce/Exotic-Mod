@@ -2,7 +2,7 @@ type: PowerTurret
 size: 8
 health: 510000
 range: 80
-// reloadTime: 140
+reload: 140
 // recoilAmount: -50
 // restitution: 0.2
 // powerUse: 1288

@@ -1,6 +1,6 @@
 type: PowerTurret
 health: 260
-// reloadTime: 30
+reload: 30
 range: 120
 // shots: 2
 // burstSpacing: 3

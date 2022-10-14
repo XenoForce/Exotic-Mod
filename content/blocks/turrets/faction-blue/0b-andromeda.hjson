@@ -5,7 +5,7 @@ health: 450000
 range: 212
 // powerUse: 1640
 rotateSpeed: 2.5
-// reloadTime: 120
+reload: 120
 // recoilAmount: 8
 // restitution: 0.02
 // shots: 5

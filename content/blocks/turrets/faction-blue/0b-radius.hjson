@@ -1,7 +1,7 @@
 type: PowerTurret
 targetAir: false
 health: 200
-// reloadTime: 65
+reload: 65
 range: 90
 shootSound: laser
 heatColor: ff0000

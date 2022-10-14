@@ -2,7 +2,7 @@ type: ItemTurret
 size: 3
 health: 1400
 range: 108
-// reloadTime: 15
+reload: 15
 // recoilAmount: 2
 // restitution: 0.06
 shootSound: flame

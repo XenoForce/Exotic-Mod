@@ -2,7 +2,7 @@ type: PowerTurret
 size: 3
 range: 280
 health: 900
-// reloadTime: 8
+reload: 8
 inaccuracy: 8
 // powerUse: 8.8
 targetHealing: true

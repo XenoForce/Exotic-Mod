@@ -3,7 +3,7 @@ size: 2
 health: 650
 range: 250
 // recoilAmount: 3
-// reloadTime: 160
+reload: 160
 rotateSpeed: 3
 consumes: {
   power: 3

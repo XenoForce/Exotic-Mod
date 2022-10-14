@@ -5,7 +5,7 @@ heatColor: e65555
 // cooldown: 0.01
 squareSprite: false
 range: 500
-// reloadTime: 10
+reload: 10
 // recoilAmount: 3
 // restitution: 0.02
 // shots: 3

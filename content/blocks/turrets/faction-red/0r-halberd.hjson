@@ -3,7 +3,7 @@ outlineIcon: false
 size: 4
 health: 4400
 range: 40
-// reloadTime: 15
+reload: 15
 // recoilAmount: -32
 // restitution: 0.25
 rotateSpeed: 12

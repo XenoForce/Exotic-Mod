@@ -2,7 +2,7 @@ type: LaserTurret
 size: 10
 health: 270000
 range: 877
-// reloadTime: 300
+reload: 300
 shootSound: laserbig
 loopSound: pulse
 // shootLength: 32

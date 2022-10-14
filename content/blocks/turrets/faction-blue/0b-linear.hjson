@@ -4,7 +4,7 @@ targetGround: false
 health: 3100
 // powerUse: 18
 range: 360
-// reloadTime: 300
+reload: 300
 // recoilAmount: 3
 rotateSpeed: 2.5
 // shots: 3

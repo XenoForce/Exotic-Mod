@@ -1,6 +1,6 @@
 type: LiquidTurret
 health: 240
-// reloadTime: 8
+reload: 8
 inaccuracy: 6
 range: 110
 // recoilAmount: 0

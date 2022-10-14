@@ -10,7 +10,7 @@ shootEffect: none
 smokeEffect: none
 // shots: 15
 // burstSpacing: 8
-// reloadTime: 360
+reload: 360
 // recoilAmount: 0
 // shootShake: 8
 // shootLength: 0

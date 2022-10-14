@@ -2,7 +2,7 @@ type: ItemTurret
 size: 2
 health: 600
 range: 150
-// reloadTime: 20
+reload: 20
 // recoilAmount: 2
 // restitution: 0.05
 // shots: 2

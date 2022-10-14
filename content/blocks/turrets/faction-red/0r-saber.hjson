@@ -2,7 +2,7 @@ type: ItemTurret
 size: 2
 health: 1100
 range: 56
-// reloadTime: 45
+reload: 45
 // shots: 3
 // spread: 16
 shootSound: shotgun

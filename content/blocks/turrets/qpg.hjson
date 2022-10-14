@@ -1,5 +1,5 @@
 type: ItemTurret
-// reloadTime: 300
+reload: 300
 // recoilAmount: 0
 rotateSpeed: 0
 shootCone: 360

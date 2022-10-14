@@ -3,7 +3,7 @@ placeableLiquid: true
 squareSprite: false
 size: 6
 health: 27000
-// reloadTime: 3
+reload: 3
 rotateSpeed: 4.1
 // shots: 4
 // velocityInaccuracy: 0.25
