@@ -3,7 +3,7 @@ hitSize: 60
 hovering: true
 drawShields: false
 allowLegStep: true
-// visualElevation: 0.8
+shadowElevation: 0.8
 groundLayer: 75
 health: 1350000
 armor: 415

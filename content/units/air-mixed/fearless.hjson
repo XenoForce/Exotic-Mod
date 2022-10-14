@@ -15,7 +15,7 @@ engineSize: 10
 lightRadius: 130
 lightColor: 5a58c4
 lowAltitude: true
-// visualElevation: 1.4
+shadowElevation: 1.4
 ammoType: {
   type: PowerAmmoType
   totalPower: 750000

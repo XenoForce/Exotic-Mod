@@ -3,7 +3,7 @@ hitSize: 48
 hovering: true
 drawShields: false
 groundLayer: 75
-// visualElevation: 0.7
+shadowElevation: 0.7
 health: 550000
 armor: 175
 speed: 0.8
