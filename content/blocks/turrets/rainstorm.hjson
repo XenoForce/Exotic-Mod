@@ -7,7 +7,7 @@ shootSound: laserbig
 loopSound: pulse
 // shootLength: 32
 rotateSpeed: 1.5
-// recoilAmount: 4
+recoil: 4
 // restitution: 0.08
 // powerUse: 4500
 shootDuration: 360

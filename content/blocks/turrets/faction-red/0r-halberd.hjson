@@ -4,7 +4,7 @@ size: 4
 health: 4400
 range: 40
 reload: 15
-// recoilAmount: -32
+recoil: -32
 // restitution: 0.25
 rotateSpeed: 12
 shootSound: none

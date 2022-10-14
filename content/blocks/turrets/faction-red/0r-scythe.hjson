@@ -5,7 +5,7 @@ range: 240
 health: 500
 inaccuracy: 4
 reload: 70
-// recoilAmount: 3
+recoil: 3
 // velocityInaccuracy: 0.1
 
 shoot: {

@@ -3,7 +3,7 @@ size: 3
 health: 1000
 range: 220
 reload: 15
-// recoilAmount: 1.5
+recoil: 1.5
 // restitution: 0.08
 
 shoot: {

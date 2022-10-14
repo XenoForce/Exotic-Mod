@@ -10,7 +10,7 @@ rotateSpeed: 0
 // shootLength: 0
 canOverdrive: false
 // acceptCoolant: false
-// recoilAmount: 0
+recoil: 0
 shootSound: none
 shootEffect: {
   type: MultiEffect

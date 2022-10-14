@@ -3,7 +3,7 @@ size: 3
 health: 1400
 range: 108
 reload: 15
-// recoilAmount: 2
+recoil: 2
 // restitution: 0.06
 shootSound: flame
 ammoTypes: {

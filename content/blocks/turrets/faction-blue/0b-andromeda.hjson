@@ -6,7 +6,7 @@ range: 212
 // powerUse: 1640
 rotateSpeed: 2.5
 reload: 120
-// recoilAmount: 8
+recoil: 8
 // restitution: 0.02
 
 shoot: {

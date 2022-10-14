@@ -17,7 +17,7 @@ spread: 3
 shootCone: 20
 shake: 0.5
 inaccuracy: 1.5
-recoilAmount: 3
+recoil: 3
 size: 3
 range: 600
 restitution: 0.08

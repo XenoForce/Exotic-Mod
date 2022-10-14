@@ -16,7 +16,7 @@ shoot: {
 }
 
 reload: 360
-// recoilAmount: 0
+recoil: 0
 shake: 8
 // shootLength: 0
 shootSound: none

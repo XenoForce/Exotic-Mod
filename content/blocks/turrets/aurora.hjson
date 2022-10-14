@@ -7,7 +7,7 @@ rotateSpeed: 0.9
 // shootLength: 0
 shootSound: railgun
 reload: 240
-// recoilAmount: 14
+recoil: 14
 // restitution: 0.04
 // chargeTime: 160
 

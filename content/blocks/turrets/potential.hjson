@@ -5,7 +5,7 @@ range: 855
 targetAir: true
 targetGround: true
 reload: 110
-// recoilAmount: 3
+recoil: 3
 // restitution: 0.01
 shootSound: artillery
 ammoPerShot: 30

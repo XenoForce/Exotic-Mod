@@ -13,7 +13,7 @@ shoot: {
 
 xRand: 5
 // powerUse: 10
-// recoilAmount: 3
+recoil: 3
 shootSound: laser
 shootType: {
   type: LaserBulletType

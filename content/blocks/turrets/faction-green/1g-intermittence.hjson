@@ -16,7 +16,7 @@ inaccuracy: 18
 targetHealing: true
 shootSound: shootBig
 shake: 3
-// recoilAmount: 5
+recoil: 5
 shootType: {
   type: ContinuousLaserBulletType
   damage: 20

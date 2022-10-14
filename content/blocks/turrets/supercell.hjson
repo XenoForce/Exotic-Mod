@@ -4,7 +4,7 @@ liquidCapacity: 350
 range: 600
 health: 270000
 reload: 15
-// recoilAmount: 4
+recoil: 4
 inaccuracy: 5
 
 shoot: {

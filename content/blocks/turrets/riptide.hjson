@@ -10,7 +10,7 @@ shootCone: 5
 ammoUseEffect: none
 shootEffect: shootLiquid
 rotateSpeed: 10
-// recoilAmount: 0
+recoil: 0
 
 shoot: {
   type: ShootAlternate

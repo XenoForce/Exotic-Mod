@@ -2,7 +2,7 @@ type: ItemTurret
 size: 2
 health: 650
 range: 250
-// recoilAmount: 3
+recoil: 3
 reload: 160
 rotateSpeed: 3
 consumes: {

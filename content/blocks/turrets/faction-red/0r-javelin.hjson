@@ -6,7 +6,7 @@ heatColor: e65555
 squareSprite: false
 range: 500
 reload: 10
-// recoilAmount: 3
+recoil: 3
 // restitution: 0.02
 
 shoot: {

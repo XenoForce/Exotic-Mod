@@ -12,7 +12,7 @@ shoot: {
   spread: 0
 }
 
-// recoilAmount: 10
+recoil: 10
 ammoUseEffect: casing3
 shootCone: 25
 rotateSpeed: 1000

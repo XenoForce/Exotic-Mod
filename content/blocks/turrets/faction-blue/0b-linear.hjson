@@ -5,7 +5,7 @@ health: 3100
 // powerUse: 18
 range: 360
 reload: 120
-// recoilAmount: 3
+recoil: 3
 rotateSpeed: 2.5
 
 shoot: {

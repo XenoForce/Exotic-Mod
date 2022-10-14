@@ -24,7 +24,7 @@ smokeEffect: {
   interp: pow5Out
   colorFrom: 7382f0
   colorTo: 7382f0
- }
+}
 shootType: {
   type: MissileBulletType
   damage: 25

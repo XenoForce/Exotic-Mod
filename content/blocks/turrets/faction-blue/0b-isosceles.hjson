@@ -4,7 +4,7 @@ health: 1300
 range: 170
 rotateSpeed: 4
 reload: 160
-// recoilAmount: 5
+recoil: 5
 // powerUse: 8
 // shootLength: 7
 shootEffect: shootBig

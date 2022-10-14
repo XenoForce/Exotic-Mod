@@ -3,7 +3,7 @@ health: 240
 reload: 8
 inaccuracy: 6
 range: 110
-// recoilAmount: 0
+recoil: 0
 liquidCapacity: 5
 shootEffect: shootLiquid
 ammoTypes: {

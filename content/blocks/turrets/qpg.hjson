@@ -1,6 +1,6 @@
 type: ItemTurret
 reload: 300
-// recoilAmount: 0
+recoil: 0
 rotateSpeed: 0
 shootCone: 360
 range: 400

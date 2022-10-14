@@ -1,7 +1,7 @@
 health: 4600
 type: ItemTurret
 reload: 45
-// recoilAmount: 3
+recoil: 3
 shootCone: 30
 range: 210
 size: 4

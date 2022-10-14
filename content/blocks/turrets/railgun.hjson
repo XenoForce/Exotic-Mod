@@ -13,7 +13,7 @@ shoot: {
   spread: 0
 }
 
-// recoilAmount: 2
+recoil: 2
 ammoUseEffect: casing3
 shootEffect: hitLancer
 shootSound: railgun

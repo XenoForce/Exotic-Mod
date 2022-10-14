@@ -4,7 +4,7 @@ health: 850
 // powerUse: 12
 rotateSpeed: 3.5
 reload: 5
-// recoilAmount: 2
+recoil: 2
 range: 140
 shake: 1
 shootSound: none
