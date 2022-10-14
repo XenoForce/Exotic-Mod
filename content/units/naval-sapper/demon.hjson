@@ -164,7 +164,7 @@ weapons: [
       type: ShootSpread
       shots: 3
       shotDelay: 5
-      spread: number
+      spread: 0
     }
     xRand: 6
     mirror: false

@@ -33,7 +33,7 @@ weapons: [
       type: ShootSpread
       shots: 20
       shotDelay: 5
-      spread: number
+      spread: 0
     }
     shootCone: 360
     shootSound: none
