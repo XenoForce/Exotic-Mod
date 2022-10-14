@@ -19,8 +19,12 @@ weapons: [
     y: 0
     reload: 15
     recoil: 6
-    // shots: 3
-    // shotDelay: 2
+    shoot: {
+      type: ShootSpread
+      shots: 3
+      shotDelay: 2
+      spread: 0
+    }
     shootY: 28
     shootSound: bang
     top: false

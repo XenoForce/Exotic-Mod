@@ -3,7 +3,13 @@ health: 177550
 reload: 35
 shootCone: 15
 size: 5
-// shots: 4
+
+shoot: {
+  type: ShootSpread
+  shots: 4
+  spread: 0
+}
+
 consumes: {
   power: 54
 }

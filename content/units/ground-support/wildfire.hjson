@@ -192,8 +192,12 @@ weapons: [
     reload: 180
     recoil: 12
     shootY: 20
-    // shots: 2
-    // shotDelay: 12
+    shoot: {
+      type: ShootSpread
+      shots: 2
+      shotDelay: 12
+      spread: 0
+    }
     shootSound: laser
     shake: 5
     bullet: {

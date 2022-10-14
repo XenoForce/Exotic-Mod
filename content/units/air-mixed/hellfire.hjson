@@ -27,11 +27,15 @@ weapons: [
     mirror: false
     shootY: 16
     reload: 300
-    // firstShotDelay: 165
+    shoot: {
+      type: ShootSpread
+      shots: 2
+      shotDelay: 2
+      spread: number
+      firstShotDelay: 165
+    }
     shootStatus: exotic-mod-stopped
     shootStatusDuration: 170
-    // shots: 2
-    // shotDelay: 2
     shootSound: laserblast
     shake: 15
     bullet: {
@@ -184,8 +188,11 @@ weapons: [
     shootY: 8
     rotate: true
     reload: 10
-    // shots: 2
-    // spacing: 15
+    shoot: {
+      type: ShootSpread
+      shots: 2
+      spread: 15
+    }
     shootSound: shotgun
     shake: 1
     bullet: {
@@ -207,8 +214,11 @@ weapons: [
     shootY: 8
     rotate: true
     reload: 25
-    // shots: 3
-    // spacing: 15
+    shoot: {
+      type: ShootSpread
+      shots: 3
+      spread: 15
+    }
     shootSound: shotgun
     shake: 1
     bullet: {

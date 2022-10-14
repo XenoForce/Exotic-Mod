@@ -34,8 +34,12 @@ weapons: [
     reload: 240
     recoil: 12
     shootY: 32
-    // shots: 4
-    // shotDelay: 2
+    shoot: {
+      type: ShootSpread
+      shots: 4
+      shotDelay: 2
+      spread: 0
+    }
     shootSound: laser
     shake: 3
     bullet: {
@@ -82,8 +86,12 @@ weapons: [
     shootY: -40
     reload: 25
     xRand: 32
-    // shotDelay: 5
-    // shots: 5
+    shoot: {
+      type: ShootSpread
+      shots: 5
+      shotDelay: 5
+      spread: 0
+    }
     shootCone: 45
     shootSound: none
     bullet: {

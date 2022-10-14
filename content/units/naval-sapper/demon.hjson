@@ -19,8 +19,12 @@ weapons: [
     reload: 380
     mirror: false
     shootCone: 360
-    // shots: 35
-    // shotDelay: 2
+    shoot: {
+      type: ShootSpread
+      shots: 35
+      shotDelay: 2
+      spread: 0
+    }
     inaccuracy: 180
     shootSound: spark
     shake: 6
@@ -47,11 +51,14 @@ weapons: [
     x: 55
     y: 14
     rotate: true
-    // shots: 2
-    // shotDelay: 12
+    shoot: {
+      type: ShootSpread
+      shots: 2
+      shotDelay: 12
+      spread: 6
+    }
     alternate: true
     reload: 12
-    // spacing: 6
     shootSound: missile
     ejectEffect: casing2
     bullet: {
@@ -79,11 +86,14 @@ weapons: [
     x: 54.75
     y: -14
     rotate: true
-    // shots: 2
-    // shotDelay: 12
+    shoot: {
+      type: ShootSpread
+      shots: 2
+      shotDelay: 12
+      spread: 6
+    }
     alternate: true
     reload: 12
-    // spacing: 6
     shootSound: missile
     ejectEffect: casing2
     bullet: {
@@ -150,9 +160,13 @@ weapons: [
     rotate: true
     rotateSpeed: 4.5
     reload: 15
-    // shots: 3
+    shoot: {
+      type: ShootSpread
+      shots: 3
+      shotDelay: 5
+      spread: number
+    }
     xRand: 6
-    // shotDelay: 5
     mirror: false
     shootSound: shootBig
     ejectEffect: casing3Double

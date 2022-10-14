@@ -29,8 +29,12 @@ weapons: [
     x: 0
     y: 0
     reload: 480
-    // shots: 20
-    // shotDelay: 5
+    shoot: {
+      type: ShootSpread
+      shots: 20
+      shotDelay: 5
+      spread: number
+    }
     shootCone: 360
     shootSound: none
     shake: 4
@@ -113,7 +117,12 @@ weapons: [
     recoil: 0
     heatColor: 7382f0
     mirror: false
-    // firstShotDelay: 210
+    shoot: {
+      type: ShootSpread
+      shots: 1
+      spread: 0
+      firstShotDelay: 210
+    }
     cooldownTime: 800
     shootSound: beam
     shootStatus: exotic-mod-overburn
