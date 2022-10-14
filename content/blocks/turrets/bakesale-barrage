@@ -24,7 +24,7 @@ restitution: 0.08
 cooldown: 0.08
 shootEffect: shootSmall
 shootSound: missile
-acceptCoolant: false
+hasLiquids: false
 coolantMultiplier: 0
 maxAmmo: 90
 ammoTypes: {

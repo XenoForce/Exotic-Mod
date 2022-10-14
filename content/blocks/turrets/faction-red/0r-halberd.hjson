@@ -9,7 +9,8 @@ recoil: -32
 rotateSpeed: 12
 shootSound: none
 shake: 2
-// acceptCoolant: false
+hasLiquids: false
+
 ammoTypes: {
   blast-compound: {
     type: RailBulletType
@@ -22,8 +23,10 @@ ammoTypes: {
     smokeEffect: none
   }
 }
+
 category: turret
 research: 0r-waraxe
+
 requirements: [
   copper/1500
   lead/1200

@@ -9,7 +9,7 @@ reload: 1081
 rotateSpeed: 0
 // shootLength: 0
 canOverdrive: false
-// acceptCoolant: false
+hasLiquids: false
 recoil: 0
 shootSound: none
 shootEffect: {

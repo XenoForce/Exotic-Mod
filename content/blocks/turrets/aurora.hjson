@@ -154,8 +154,10 @@ ammoTypes: {
     }
   }
 }
-// acceptCoolant: false
+
+hasLiquids: false
 category: turret
+
 requirements: [
   graphite/23000
   silicon/25000
