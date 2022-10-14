@@ -20,7 +20,12 @@ weapons: [
     reload: 560 
     shootCone: 20
     continuous: true
-    // firstShotDelay: 200
+    shoot: {
+      type: ShootSpread
+      shots: 1
+      spread: 0
+      firstShotDelay: 200
+    }
     inaccuracy: 180
     shootSound: pulse
     shootStatus: unmoving
@@ -336,7 +341,11 @@ weapons: [
     reload: 120
     recoil: 8
     inaccuracy: 16
-    // shots: 4
+    shoot: {
+      type: ShootSpread
+      shots: 4
+      spread: 0
+    }
     shootSound: shootBig
     shootY: 12
     shake: 2
@@ -529,8 +538,12 @@ weapons: [
     x: 0
     y: 0
     rotate: true
-    // shots: 10
-    // shotDelay: 4
+    shoot: {
+      type: ShootSpread
+      shots: 10
+      shotDelay: 4
+      spread: 0
+    }
     reload: 120
     inaccuracy: 15
     velocityRnd: 0.5
@@ -645,8 +658,12 @@ weapons: [
     x: 0
     y: 0
     rotate: true
-    // shots: 10
-    // shotDelay: 4
+    shoot: {
+      type: ShootSpread
+      shots: 10
+      shotDelay: 4
+      spread: 0
+    }
     reload: 120
     inaccuracy: 15
     velocityRnd: 0.5
@@ -695,8 +712,12 @@ weapons: [
     x: 0
     y: 0
     rotate: true
-    // shots: 10
-    // shotDelay: 4
+    shoot: {
+      type: ShootSpread
+      shots: 10
+      shotDelay: 4
+      spread: 0
+    }
     reload: 120
     inaccuracy: 15
     velocityRnd: 0.5
@@ -745,8 +766,12 @@ weapons: [
     x: 0
     y: 0
     rotate: true
-    // shots: 10
-    // shotDelay: 4
+    shoot: {
+      type: ShootSpread
+      shots: 10
+      shotDelay: 4
+      spread: 0
+    }
     reload: 120
     inaccuracy: 15
     velocityRnd: 0.5
@@ -795,8 +820,12 @@ weapons: [
     x: 0
     y: 0
     rotate: true
-    // shots: 10
-    // shotDelay: 4
+    shoot: {
+      type: ShootSpread
+      shots: 10
+      shotDelay: 4
+      spread: 0
+    }
     reload: 120
     inaccuracy: 15
     velocityRnd: 0.5
@@ -845,8 +874,12 @@ weapons: [
     x: 0
     y: 0
     rotate: true
-    // shots: 10
-    // shotDelay: 4
+    shoot: {
+      type: ShootSpread
+      shots: 10
+      shotDelay: 4
+      spread: 0
+    }
     reload: 120
     inaccuracy: 15
     velocityRnd: 0.5
@@ -1122,9 +1155,12 @@ weapons: [
     shootCone: 180
     mirror: false
     reload: 1080
-    // shots: 72
-    // spacing: 60
-    // shotDelay:  5
+    shoot: {
+      type: ShootSpread
+      shots: 72
+      shotDelay: 5
+      spread: 60
+    }
     shootSound: none
     bullet: {
       type: ShrapnelBulletType
@@ -1141,9 +1177,12 @@ weapons: [
     shootCone: 180
     mirror: false
     reload: 1080
-    // shots: 72
-    // spacing: 50
-    // shotDelay: 5
+    shoot: {
+      type: ShootSpread
+      shots: 72
+      shotDelay: 5
+      spread: 50
+    }
     shootSound: none
     bullet: {
       type: ShrapnelBulletType
@@ -1160,9 +1199,12 @@ weapons: [
     shootCone: 180
     mirror: false
     reload: 1080
-    // shots: 72
-    // spacing: 40
-    // shotDelay: 5
+    shoot: {
+      type: ShootSpread
+      shots: 72
+      shotDelay: 5
+      spread: 40
+    }
     shootSound: none
     bullet: {
       type: ShrapnelBulletType
@@ -1179,9 +1221,12 @@ weapons: [
     shootCone: 180
     mirror: false
     reload: 1080
-    // shots: 72
-    // spacing: 30
-    // shotDelay: 5
+    shoot: {
+      type: ShootSpread
+      shots: 72
+      shotDelay: 5
+      spread: 30
+    }
     shootSound: none
     bullet: {
       type: ShrapnelBulletType
@@ -1198,9 +1243,12 @@ weapons: [
     shootCone: 180
     mirror: false
     reload: 1080
-    // shots: 72
-    // spacing: 20
-    // shotDelay: 5
+    shoot: {
+      type: ShootSpread
+      shots: 72
+      shotDelay: 5
+      spread: 20
+    }
     shootSound: none
     bullet: {
       type: ShrapnelBulletType
@@ -1217,9 +1265,12 @@ weapons: [
     shootCone: 180
     mirror: false
     reload: 1080
-    // shots: 72
-    // spacing: 10
-    // shotDelay: 5
+    shoot: {
+      type: ShootSpread
+      shots: 72
+      shotDelay: 5
+      spread: 10
+    }
     shootSound: none
     bullet: {
       type: ShrapnelBulletType
