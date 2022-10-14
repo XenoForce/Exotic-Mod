@@ -5,10 +5,11 @@ health: 256000
 reload: 65
 recoil: 6
 rotateSpeed: 3.5
-// coolantUsage: 4
+hasLiquids: false
 coolantMultiplier: 0.6
 ammoPerShot: 8
 shootSound: artillery
+
 ammoTypes: {
   surge-alloy: {
     ammoMultiplier: 1
@@ -84,8 +85,9 @@ ammoTypes: {
     }
   }
 }
-// coolantUsage: 4.2
+
 category: turret
+
 requirements: [
   copper/25000
   lead/20000

@@ -41,9 +41,11 @@ shootType: {
     colorTo: 7382f050
   }
 }
-// coolantUsage: 3.5
+
+hasLiquids: false
 coolantMultiplier: 0.7
 category: turret
+
 requirements: [
   copper/35000
   graphite/30000

@@ -7,6 +7,7 @@ recoil: -50
 // restitution: 0.2
 // powerUse: 1288
 shootSound: none
+
 shootType: {
   type: ShrapnelBulletType
   damage: 250000
@@ -16,9 +17,11 @@ shootType: {
   toColor: ffffff
   status: exotic-mod-bleeding
 }
-// coolantUsage: 2.1
+
+hasLiquids: false
 research: 0r-halberd
 category: turret
+
 requirements: [
   copper/25000
   lead/30000

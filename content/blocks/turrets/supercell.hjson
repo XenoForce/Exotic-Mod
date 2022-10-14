@@ -52,9 +52,11 @@ ammoTypes: {
     lightningLength: 15
   }
 }
-// coolantUsage: 3.2
+
+hasLiquids: false
 coolantMultiplier: 0.3
 category: turret
+
 requirements: [
   copper/20000
   graphite/18000
