@@ -5,10 +5,15 @@ size: 6
 health: 27000
 reload: 3
 rotateSpeed: 4.1
-// shots: 4
+
+shoot: {
+  type: ShootSpread
+  shots: 4
+  spread: 0
+}
+
 // velocityInaccuracy: 0.25
 inaccuracy: 1
-// spread: 0
 range: 720
 // shootLength: 12
 shootEffect: shootLiquid

@@ -7,8 +7,13 @@ range: 400
 heatColor: ffea00
 // cooldown: 0.015
 size: 2
-// shots: 360
-// spread: 1
+
+shoot: {
+  type: ShootSpread
+  shots: 360
+  spread: 1
+}
+
 inaccuracy: 0
 // shootLength: 0
 targetAir: true

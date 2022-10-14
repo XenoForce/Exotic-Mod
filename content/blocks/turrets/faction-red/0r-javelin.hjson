@@ -8,9 +8,15 @@ range: 500
 reload: 10
 // recoilAmount: 3
 // restitution: 0.02
-// shots: 3
-// alternate: true
-// spread: 12
+
+shoot: {
+  type: ShootAlternate
+  shots: 3
+  spread: 12
+  barrels: 2
+  barrelOffset: 1
+}
+
 shootSound: shootBig
 // shootShake: 3
 shootEffect: {

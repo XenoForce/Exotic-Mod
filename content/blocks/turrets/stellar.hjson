@@ -4,9 +4,15 @@ size: 3
 range: 200
 health: 1250
 // recoilAmount: 3
-// alternate: true
-// shots: 2
-// spread: 8
+
+shoot: {
+  type: ShootAlternate
+  shots: 2
+  spread: 8
+  barrels: 2
+  barrelOffset: 1
+}
+
 inaccuracy: 4
 shootSound: sap
 ammoTypes: {

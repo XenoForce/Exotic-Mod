@@ -11,10 +11,17 @@ ammoUseEffect: none
 shootEffect: shootLiquid
 rotateSpeed: 10
 // recoilAmount: 0
-// shots: 2
-// alternate: true
+
+shoot: {
+  type: ShootAlternate
+  shots: 2
+  spread: 16
+  barrels: 2
+  barrelOffset: 1
+}
+
 inaccuracy: 10
-// spread: 16
+
 ammoTypes: {
   water: {
     type: liquidBulletType

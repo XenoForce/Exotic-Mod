@@ -5,9 +5,15 @@ health: 700
 reload: 30
 rotateSpeed: 3
 // powerUse: 5
-// shots: 2
-// spread: 6
-// alternate: true
+
+shoot: {
+  type: ShootAlternate
+  shots: 2
+  spread: 6
+  barrels: 2
+  barrelOffset: 1
+}
+
 shootSound: sap
 shootEffect: shootSmall
 smokeEffect: {
