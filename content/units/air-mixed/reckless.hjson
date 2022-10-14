@@ -22,7 +22,6 @@ weapons: [
     y: 0
     shootY: 4
     reload: 120
-    // firstShotDelay: 45
     shootStatus: unmoving
     shootStatusDuration: 45
     shootSound: laser

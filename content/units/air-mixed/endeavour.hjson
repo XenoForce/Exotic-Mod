@@ -17,6 +17,7 @@ engineOffset: 32
 engineSize: 5
 omniMovement: true
 // rotateShooting: false
+
 weapons: [
   {
     x: 0
@@ -25,10 +26,10 @@ weapons: [
     mirror: false
     shootCone: 360
     reload: 320
-    // firstShotDelay: 30
     shootStatus: exotic-mod-hyperdrive
     shootStatusDuration: 35
     shake: 6
+    
     bullet: {
       damage: 0
       lifetime: 0
@@ -82,8 +83,8 @@ weapons: [
     mirror: false
     shootCone: 360
     reload: 320
-    // firstShotDelay: 35
     shootSound: none
+    
     bullet: {
       damage: 0
       lifetime: 0
