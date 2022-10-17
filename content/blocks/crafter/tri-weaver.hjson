@@ -71,7 +71,7 @@ requirements: [
 ]
 drawer: drawWeave
 category: crafting
-research: phase-weaver
+research: amethyst-refiner
 ambientSound: techloop
 ambientSoundVolume: 0.5
 outputItem: phase-fabric/7

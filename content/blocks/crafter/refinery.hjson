@@ -22,7 +22,7 @@ consumes: {
 outputItem: surge-alloy/24
 outputLiquid: mag-slag/45
 category: crafting
-research: alloy-smelter
+research: amethyst-refiner
 requirements: [
   lead/1500
   silicon/1250

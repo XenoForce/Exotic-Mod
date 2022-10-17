@@ -14,7 +14,7 @@ consumes: {
   }
 }
 category: production
-research: water-extractor
+research: root-node-for-exotic-mod
 requirements: [
   copper/1500
   silicon/1200

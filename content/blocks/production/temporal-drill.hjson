@@ -19,7 +19,7 @@ consumes: {
 }
 liquidBoostIntensity: 1.25
 category: production
-research: blast-drill
+research: mass-extractor
 requirements: [
   copper/120
   graphite/110

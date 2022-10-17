@@ -1,4 +1,5 @@
 color: "6e7080"
 cost: 12
-research: core-shard
+research: root-node-for-exotic-mod
+
 alwaysUnlocked: true

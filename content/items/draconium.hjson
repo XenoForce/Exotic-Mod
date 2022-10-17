@@ -3,3 +3,5 @@ cost: 6
 explosiveness: 4.4
 color: a33164
 research: anden
+
+alwaysUnlocked: true

@@ -3,7 +3,7 @@ requiresWater: true
 health: 65
 pumpAmount: 0.075
 category: liquid
-research: mechanical-pump
+research: root-node-for-exotic-mod
 requirements: [
   metaglass/10
   ladera/15

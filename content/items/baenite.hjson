@@ -1,4 +1,6 @@
 hardness: 5
 cost: 1.8
 color: 74cf84
-research: phase-fabric
+research: root-node-for-exotic-mod
+
+alwaysUnlocked: true

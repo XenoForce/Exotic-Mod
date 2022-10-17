@@ -8,7 +8,7 @@ phaseBoost: 0
 phaseRangeBoost: 0
 phaseColor: 74cf84
 category: defense
-research: surge-wall
+research: absorber-wall
 requirements: [
   baenite/6
 ]
