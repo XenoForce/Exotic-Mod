@@ -77,5 +77,5 @@ requirements: [
   draconium/950
 ]
 category: turret
-research: spectre
+research: railgun
 shootSound: bigshot

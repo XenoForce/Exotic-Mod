@@ -3,7 +3,7 @@ health: 60
 itemCapacity: 8
 speed: 0.05
 recharge: 3
-research: titanium-conveyor
+research: floating-junction
 loadEffect: {
   type: ParticleEffect
   line: true

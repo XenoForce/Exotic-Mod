@@ -24,4 +24,4 @@ requirements: [
 category: power
 ambientSound: pulse
 ambientSoundVolume: 0.2
-research: impact-reactor
+research: draconium-reactor

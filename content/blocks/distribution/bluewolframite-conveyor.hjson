@@ -10,4 +10,4 @@ requirements: [
 category: distribution
 speed: 0.18
 displayedSpeed: 20
-research: armored-conveyor
+research: floating-conveyor

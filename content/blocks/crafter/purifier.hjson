@@ -17,7 +17,7 @@ consumes: {
 }
 category: crafting
 research: {
-  parent: cryofluid-mixer
+  parent: amethyst-refiner
   objectives: [
     baenite
   ]

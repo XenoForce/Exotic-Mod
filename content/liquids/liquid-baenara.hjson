@@ -19,3 +19,7 @@ effect: {
     colorTo: 46b084
   }
 }
+
+research: mag-slag
+
+alwaysUnlocked: true

@@ -9,4 +9,4 @@ requirements: [
 liquidCapacity: 65
 liquidPressure: 1.5
 category: liquid
-research: plated-conduit
+research: floating-junction
