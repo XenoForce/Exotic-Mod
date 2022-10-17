@@ -54,7 +54,7 @@ ammoTypes: {
   }
 }
 category: turret
-research: duo
+research: root-node-for-exotic-mod
 requirements: [
   copper/45
   lead/20

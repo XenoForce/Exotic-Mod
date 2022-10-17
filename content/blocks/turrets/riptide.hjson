@@ -108,5 +108,5 @@ ammoTypes: {
   }
 }
 category: turret
-research: tsunami
+research: root-node-for-exotic-mod
 buildVisibility: sandboxOnly

@@ -33,4 +33,4 @@ requirements: [
 ]
 category: crafting
 outputItem: plastanium/5
-research: plastanium-compressor
+research: amethyst-refiner

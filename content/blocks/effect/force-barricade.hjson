@@ -19,7 +19,7 @@ consumes: {
   }
 }
 category: effect
-research: force-projector
+research: root-node-for-exotic-mod
 requirements: [
   copper/3500
   lead/4000

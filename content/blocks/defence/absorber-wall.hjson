@@ -9,7 +9,7 @@ consumes: {
   power: 0.15
 }
 category: defense
-research: mender
+research: buffer-wall
 requirements: [
   titanium/4
   silicon/6

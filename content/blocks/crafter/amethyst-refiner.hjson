@@ -63,5 +63,5 @@ requirements: [
   phase-fabric/25
 ]
 category: crafting
-research: alloy-smelter
+research: furnace
 outputItem: amethyst-gem/1

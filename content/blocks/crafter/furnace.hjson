@@ -21,7 +21,7 @@ consumes: {
 craftTime: 80
 outputItem: territe-alloy/2
 category: crafting
-research: silicon-smelter
+research: extractor
 requirements: [
   copper/40
   lead/35

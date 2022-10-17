@@ -3,7 +3,7 @@ health: 490
 baseExplosiveness: 15
 flashHit: true
 category: defense
-research: copper-wall
+research: root-node-for-exotic-mod
 requirements: [
   anden/12
 ]

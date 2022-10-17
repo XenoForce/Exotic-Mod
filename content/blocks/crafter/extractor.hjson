@@ -35,7 +35,7 @@ craftEffect: {
   sizeTo: 0
 }
 category: crafting
-research: graphite-press
+research: root-node-for-exotic-mod
 requirements: [
   copper/70
   lead/60

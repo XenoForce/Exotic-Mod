@@ -6,7 +6,7 @@ consumes: {
   powerBuffered: 250
 }
 category: defense
-research: battery
+research: metaglass-wall
 requirements: [
   lead/8
   territe-alloy/4
