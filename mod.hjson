@@ -1,16 +1,16 @@
 name: exotic-mod
 displayName: Exotic Mod
-author: BlueWolf
+author: goldie
 description:
   '''
+  A ported version of the old Exotic Mod, that may run on v7 of Mindustry.
+  
   WARNING: Not supported on low-end devices.
   
-  The official HJSON 7.0 example mod. Both a reference point and also playable. Developed in Canada.
-  Moving to 7.0 release build 130.
-
-  Discord: https://discord.gg/M3hm5z6nm6
+  (For more information, see the repo page of this mod.)
   
-  A lot of work goes into Exotic, so if you want to show some support or like the content give the mod a star on GitHub!
   '''
-version: 0.7 Alpha
+version: 1.0.1
 minGameVersion: 136
+dependencies: []
+hideBrowser: false
