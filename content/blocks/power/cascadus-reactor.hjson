@@ -206,6 +206,7 @@ generateEffect: {
 }
 */
 
+hasPower: true
 powerProduction: 1800
 destroyEffect: {
   type: MultiEffect
@@ -299,3 +300,4 @@ requirements: [
   amethyst-gem/4000
   draconium/2000
 ]
+research: fusion-reactor

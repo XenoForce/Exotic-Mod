@@ -167,6 +167,7 @@ destroyEffect: {
     }
   ]
 }
+hasPower: true
 powerProduction: 195
 category: power
 requirements: [
@@ -177,3 +178,4 @@ requirements: [
   baenite/400
   amethyst-gem/250
 ]
+research: geothermal-differentiator
