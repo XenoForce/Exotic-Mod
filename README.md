@@ -1,73 +1,9 @@
-# please insert some interesting text here
+# Exotic Mod - Clone
 
-A rather unique HJSON mod created by BlueWolf. Features some things, some more things, and even things that explode in your face. (working on it)
+This is a clone of the original Exotic Mod, with most of the chaos and silliness still intact. (I may try to fix some of it later.)
 
-Holy crap it's even used as the modding wiki's example.
+This is also a port of the original Exotic Mod to Mindustry v7. (I suspect the original content creator may never actually port this particular version of Exotic Mod to Mindustry v7, and therefore I decided to give it a try, as a learning exercise.)
 
-Special thanks to Meep and others for handling the support for many things.
+At the time when this clone was made, Exotic Mod was released under the GPLv3.
 
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-idk man this is a work of art (if you can call it that) made by someone going insane
-
-talk to insane girl and recieve updates if you care: https://discord.gg/M3hm5z6nm6
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-help
+Here is a link to the original Exotic Mod: https://github.com/BlueWolf3682/Exotic-Mod
