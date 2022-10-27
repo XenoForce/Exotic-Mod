@@ -19,5 +19,3 @@ For those who don't want to spend hours and days gathering all the required reso
  * https://github.com/XenoForce/Exotic-Mod-Unleashed
 
  * https://github.com/XenoForce/Happy-Times-Mod
-
-<br>
