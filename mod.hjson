@@ -1,13 +1,13 @@
 name: exotic-mod
-displayName: Exotic Mod
+displayName: Exotic Mod - Clone
 author: goldie
 description:
   '''
-  A ported version of the old Exotic Mod, that may run on v7 of Mindustry.
+  A ported version of the old Exotic Mod, that may actually run on v7 of Mindustry.
   
-  WARNING: Not supported on low-end devices.
+  WARNING: Not meant for low-end devices.
   
-  (For more information, see the repo page of this mod.)
+  (For more information, please see the repo page of this mod.)
   
   '''
 version: 1.0.1
