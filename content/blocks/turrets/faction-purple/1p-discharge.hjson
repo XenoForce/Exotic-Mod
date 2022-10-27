@@ -45,6 +45,7 @@ ammoTypes: {
   }
 }
 category: turret
+research: 1p-torrent
 requirements: [
   metaglass/3500
   graphite/3000
