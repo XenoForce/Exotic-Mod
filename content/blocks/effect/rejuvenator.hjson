@@ -1,5 +1,6 @@
 type: MendProjector
 size: 2
+
 health: 440
 range: 32
 reload: 120
@@ -9,8 +10,9 @@ baseColor: 7382f0
 phaseColor: 90a2fc
 phaseBoost: 0
 phaseRangeBoost: 20
+
 consumes: {
-  power: 1.8
+  power: 1.1
   items: {
     items: [
       territe-alloy/1
@@ -19,10 +21,14 @@ consumes: {
     optional: true
   }
 }
+
 requirements: [
   lead/175
-  territe-alloy/100
   titanium/75
+  territe-alloy/50
 ]
+
+researchCostMultiplier: 0.2
+
 category: effect
 research: force-barricade

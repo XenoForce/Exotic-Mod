@@ -1,17 +1,19 @@
 type: PowerGenerator
 size: 10
+
 canOverdrive: false
 liquidCapacity: 400
 // itemDuration: 240
 baseExplosiveness: 185
+
 consumes: {
   liquid: {
     liquid: energia
-    amount: 3
+    amount: 0.2
   }
   items: {
     items: [
-      bluewolframite/2
+      bluewolframite/1
     ]
   }
 }
@@ -208,6 +210,7 @@ generateEffect: {
 
 hasPower: true
 powerProduction: 1800
+
 destroyEffect: {
   type: MultiEffect
   lifetime: 480
@@ -290,14 +293,18 @@ destroyEffect: {
     }
   ]
 }
-category: power
+
 requirements: [
-  silicon/20000
-  metaglass/15000
-  thorium/17000
-  phase-fabric/9000
-  baenite/5000
-  amethyst-gem/4000
-  draconium/2000
+  thorium/270
+  metaglass/200
+  silicon/150
+  phase-fabric/90
+  baenite/50
+  amethyst-gem/40
+  draconium/20
 ]
+
+researchCostMultiplier: 0.2
+
+category: power
 research: fusion-reactor

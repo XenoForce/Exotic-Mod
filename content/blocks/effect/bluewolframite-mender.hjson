@@ -1,5 +1,6 @@
 type: MendProjector
 size: 1
+
 health: 340
 range: 66
 reload: 1
@@ -7,6 +8,7 @@ healPercent: 0.02
 useTime: 45
 baseColor: 212342
 phaseColor: 6579c9
+
 consumes: {
   power: 0.7
   items: {
@@ -17,10 +19,14 @@ consumes: {
     optional: true
   }
 }
+
 requirements: [
   lead/75
   silicon/50
   bluewolframite/15
 ]
+
+researchCostMultiplier: 0.3
+
 category: effect
 research: regenerator
