@@ -117,4 +117,11 @@ deathExplosionEffect: {
     }
   ]
 }
-research: assembler
+
+research: {
+  parent: assembler
+  requirements: [
+    silicon/250
+    graphite/200
+  ]
+}

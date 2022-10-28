@@ -1,5 +1,6 @@
 type: ForceProjector
 size: 6
+
 health: 9500
 shieldHealth: 34000
 radius: 260
@@ -8,6 +9,8 @@ phaseShieldBoost: 25000
 cooldownNormal: 15.5
 cooldownLiquid: 24.6
 cooldownBrokenBase: 7.6
+ambientSoundVolume: 0.5
+
 consumes: {
   power: 145
   items: {
@@ -18,8 +21,10 @@ consumes: {
     optional: true
   }
 }
+
 category: effect
 research: root-node-for-exotic-mod
+
 requirements: [
   copper/3500
   lead/4000
@@ -28,4 +33,5 @@ requirements: [
   surge-alloy/2500
   amethyst-gem/2000
 ]
-ambientSoundVolume: 0.5
+
+researchCostMultiplier: 0.03

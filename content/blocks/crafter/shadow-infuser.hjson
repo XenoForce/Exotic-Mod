@@ -1,4 +1,5 @@
 type: GenericCrafter
+
 /*
 drawer: {
   type: drawArcSmelter
@@ -15,12 +16,15 @@ drawer: {
   particleLife: 60
 }
 */
+
 size: 8
 itemCapacity: 20
 hasPower: true
 hasLiquids: false
 hasItems: true
+
 craftTime: 184
+
 consumes: {
   power: 15.4
   items: {
@@ -32,6 +36,7 @@ consumes: {
     ]
   }
 }
+
 requirements: [
   lead/1200
   titanium/1000
@@ -43,8 +48,11 @@ requirements: [
   bluewolframite/300
   draconium/300
 ]
+
 outputItem: shadow/2
+
 category: crafting
+
 research: {
   parent: refinery
   objectives: [

@@ -26,4 +26,11 @@ weapons: [
     }
   }
 ]
-research: assembler
+
+research: {
+  parent: assembler
+  requirements: [
+    silicon/250
+    metaglass/300
+  ]
+}

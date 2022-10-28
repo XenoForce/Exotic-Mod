@@ -30,6 +30,7 @@ weapons: [
     }
   }
 ]
+
 abilities: [
   {
     type: RepairFieldAbility
@@ -38,4 +39,12 @@ abilities: [
     range: 40
   }
 ]
-research: assembler
+
+research: {
+  parent: assembler
+  requirements: [
+    silicon/300
+    lead/150
+    graphite/100
+  ]
+}

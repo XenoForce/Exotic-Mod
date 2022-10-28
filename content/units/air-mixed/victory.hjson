@@ -52,4 +52,12 @@ weapons: [
     }
   }
 ]
-research: assembler
+
+research: {
+  parent: assembler
+  requirements: [
+    silicon/200
+    lead/350
+    titanium/250
+  ]
+}
