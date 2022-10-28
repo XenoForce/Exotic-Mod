@@ -1,11 +1,14 @@
 type: GenericCrafter
 size: 4
+
 hasPower: true
 hasLiquids: true
 hasItems: true
 liquidCapacity: 440
 itemCapacity: 30
+
 craftTime: 60
+
 requirements: [
   copper/200
   lead/500
@@ -15,6 +18,7 @@ requirements: [
   phase-fabric/70
   plastanium/60
 ]
+
 consumes: {
   power: 5.4
     items: {
@@ -24,7 +28,8 @@ consumes: {
       ]
    }
 }
-// drawer: drawMixer
+
 outputLiquid: mag-slag/60
+
 category: crafting
 research: amethyst-refiner
