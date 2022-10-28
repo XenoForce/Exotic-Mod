@@ -41,7 +41,7 @@ shootType: {
   colors: [7382f040, 7382f0, ffffff]
 }
 category: turret
-research: root-node-for-exotic-mod
+research: twin
 requirements: [
   copper/35
   lead/35

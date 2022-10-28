@@ -108,5 +108,5 @@ ammoTypes: {
   }
 }
 category: turret
-research: root-node-for-exotic-mod
-buildVisibility: sandboxOnly
+research: twin
+// buildVisibility: sandboxOnly

@@ -56,4 +56,5 @@ ammoTypes: {
   }
 }
 category: turret
-buildVisibility: sandboxOnly
+research: stellar
+// buildVisibility: sandboxOnly

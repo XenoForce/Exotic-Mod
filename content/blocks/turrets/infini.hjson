@@ -449,4 +449,5 @@ ammoTypes: {
   }
 }
 category: turret
-buildVisibility: sandboxOnly
+research: supercell
+// buildVisibility: sandboxOnly
