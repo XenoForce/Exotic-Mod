@@ -119,6 +119,7 @@ weapons: [
     }
   }
 ]
+
 abilities: [
   {
     type: MoveLightningAbility
@@ -144,9 +145,14 @@ abilities: [
     }
   }
 ]
+
 research: {
   parent: excalibur
-  objectives: [
-    alterator
+  requirements: [
+    thorium/1850
+    silicon/1450
+    plastanium/600
+    baenite/350
   ]
+  objectives: [alterator]
 }

@@ -72,6 +72,7 @@ weapons: [
     }
   }
 ]
+
 abilities: [
   {
     type: RepairFieldAbility
@@ -87,9 +88,14 @@ abilities: [
     cooldown: 120
   }
 ]
+
 research: {
   parent: pyre
-  objectives: [
-    alterator
+  requirements: [
+    thorium/1850
+    silicon/1450
+    plastanium/600
+    baenite/350
   ]
+  objectives: [alterator]
 }

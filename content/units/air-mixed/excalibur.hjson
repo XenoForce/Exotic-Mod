@@ -57,9 +57,14 @@ weapons: [
     }
   }
 ]
+
 research: {
   parent: reckless
-  objectives: [
-    recaster
+  requirements: [
+    titanium/1800
+    thorium/1500
+    silicon/1200
+    surge-alloy/300
   ]
+  objectives: [recaster]
 }
