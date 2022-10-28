@@ -30,7 +30,7 @@ updateEffect: {
 }
 
 consumes: {
-  power: 4.2
+  power: 2.4
   items: {
     items: [
       wolframite/1

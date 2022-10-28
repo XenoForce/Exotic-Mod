@@ -1,36 +1,40 @@
 type: GenericCrafter
-craftTime: 90
 size: 5
-/*
-drawer: {
-  type: drawAnimation
-}
-*/
+
 hasPower: true
 hasLiquids: true
 liquidCapacity: 72
+itemCapacity: 50
+craftEffect: smokeCloud
+
+craftTime: 60
+
 consumes: {
   items: {
     items: [
-      titanium/7
-      spore-pod/4
+      titanium/5
+      spore-pod/2
     ]
   }
   liquid: {
     liquid: oil
-    amount: 0.6
+    amount: 0.1
   }
-  power: 12
+  power: 2.1
 }
-craftEffect: smokeCloud
+
+outputItem: wolframite/4
+
 requirements: [
-  copper/1500
-  lead/1000
-  silicon/500
-  titanium/500
-  plastanium/400
-  amethyst-gem/200
+  copper/700
+  lead/600
+  titanium/500  
+  silicon/300
+  plastanium/250
+  amethyst-gem/120
 ]
+
+researchCostMultiplier: 0.03
+
 category: crafting
-outputItem: plastanium/5
 research: amethyst-refiner

@@ -28,5 +28,7 @@ requirements: [
   amethyst-gem/35
 ]
 
+researchCostMultiplier: 0.2
+
 category: crafting
 research: amethyst-refiner

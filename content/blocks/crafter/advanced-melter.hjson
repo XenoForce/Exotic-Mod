@@ -9,27 +9,26 @@ itemCapacity: 30
 
 craftTime: 60
 
-requirements: [
-  copper/200
-  lead/500
-  graphite/100
-  titanium/300
-  surge-alloy/50
-  phase-fabric/70
-  plastanium/60
-]
-
 consumes: {
   power: 5.4
-    items: {
-      items: [
+  items: {
+    items: [
       wolframite/4
       surge-alloy/1
-      ]
-   }
+    ]
+  }
 }
 
 outputLiquid: mag-slag/60
+
+requirements: [
+  graphite/100
+  titanium/300
+  silicon/50
+  plastanium/60
+]
+
+researchCostMultiplier: 0.07
 
 category: crafting
 research: amethyst-refiner
