@@ -1,10 +1,15 @@
 type: GenericCrafter
-itemCapacity: 70
 size: 5
+
 hasPower: true
 hasLiquids: false
 hasItems: true
-craftTime: 170
+itemCapacity: 70
+ambientSound: techloop
+ambientSoundVolume: 0.5
+
+craftTime: 40
+
 craftEffect: {
   type: MultiEffect
   effects: [
@@ -36,6 +41,7 @@ craftEffect: {
     }
   ]
 }
+
 updateEffect: {
   type: ParticleEffect
   line: true
@@ -49,29 +55,32 @@ updateEffect: {
   colorFrom: ffd280
   colorTo: ffd28050
 }
+
 consumes: {
-  power: 20
+  power: 2.6
   items: {
     items: [
-      thorium/20
-      sand/35
+      thorium/1
+      titanium/2
     ]
   }
   liquid: {
-    liquid: cryofluid
-    amount: 0.4
+    liquid: water
+    amount: 0.2
   }
 }
+
+outputItem: ladera/1
+
 requirements: [
   copper/300
   lead/300
-  territe-alloy/400
   thorium/200
+  territe-alloy/120
   amethyst-gem/50
 ]
-drawer: drawWeave
+
+researchCostMultiplier: 0.1
+
 category: crafting
 research: amethyst-refiner
-ambientSound: techloop
-ambientSoundVolume: 0.5
-outputItem: phase-fabric/7
