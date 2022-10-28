@@ -256,5 +256,8 @@ requirements: [
   plastanium/250
   phase-fabric/100
 ]
+
+researchCostMultiplier: 0.2
+
 category: turret
 research: twin

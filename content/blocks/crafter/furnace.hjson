@@ -1,16 +1,18 @@
 type: GenericCrafter
 size: 2
+
 hasPower: true
 hasItems: true
+
 craftEffect: {
   type: ParticleEffect
   lifetime: 35
   length: 8
   colorTo: 7382f0
 }
-// flameColor: 90a2fc
+
 consumes: {
-  power: 1.25
+  power: 0.75
   items: {
     items: [
       lead/3
@@ -18,13 +20,18 @@ consumes: {
     ]
   }
 }
-craftTime: 80
+
+craftTime: 60
 outputItem: territe-alloy/2
+
 category: crafting
 research: extractor
+
 requirements: [
   copper/40
   lead/35
   silicon/20
   titanium/20
 ]
+
+researchCostMultiplier: 0.5

@@ -1,9 +1,12 @@
 type: GenericCrafter
 size: 2
+
 // drawer: drawRotator
-craftTime: 90
+
+craftTime: 60
+
 consumes: {
-  power: 1.5
+  power: 0.8
   items: {
     items: [
       scrap/3
@@ -14,7 +17,9 @@ consumes: {
     amount: 0.2
   }
 }
+
 outputItem: anden/1
+
 updateEffect: {
   type: ParticleEffect
   length: 6
@@ -24,6 +29,7 @@ updateEffect: {
   colorTo: e6555550
   sizeFrom: 0.75
 }
+
 craftEffect: {
   type: ParticleEffect
   length: 12
@@ -34,9 +40,13 @@ craftEffect: {
   sizeFrom: 1.5
   sizeTo: 0
 }
+
 category: crafting
 research: root-node-for-exotic-mod
+
 requirements: [
   copper/70
   lead/60
 ]
+
+alwaysUnlocked: true

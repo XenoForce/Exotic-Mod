@@ -72,5 +72,8 @@ requirements: [
   thorium/400
   plastanium/150
 ]
+
+researchCostMultiplier: 0.1
+
 category: turret
 research: twin

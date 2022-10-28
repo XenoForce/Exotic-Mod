@@ -34,10 +34,13 @@ shootType: {
 }
 category: turret
 research: 1g-instability
+
 requirements: [
-  copper/1500
+  copper/1100
   silicon/600
   titanium/400
   plastanium/300
   phase-fabric/250
 ]
+
+researchCostMultiplier: 0.15

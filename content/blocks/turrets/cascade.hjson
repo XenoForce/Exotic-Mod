@@ -55,6 +55,15 @@ ammoTypes: {
     }
   }
 }
+
+requirements: [
+  copper/500
+  lead/500
+  silicon/350
+  plastanium/250
+]
+
+researchCostMultiplier: 0.2
+
 category: turret
 research: stellar
-// buildVisibility: sandboxOnly

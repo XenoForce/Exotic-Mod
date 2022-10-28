@@ -1,10 +1,12 @@
 type: GenericCrafter
-// drawer: drawSmelter
 size: 4
+
 hasPower: true
 hasLiquids: false
 hasItems: true
-craftTime: 120
+
+craftTime: 60
+
 craftEffect: {
   type: MultiEffect
   effects: [
@@ -32,6 +34,7 @@ craftEffect: {
     }
   ]
 }
+
 updateEffect: {
   type: ParticleEffect
   line: true
@@ -44,6 +47,7 @@ updateEffect: {
   lenTo: 0
   colorTo: a36ae6
 }
+
 consumes: {
   power: 2
   items: {
@@ -56,12 +60,17 @@ consumes: {
     amount: 0.2
   }
 }
+
+outputItem: amethyst-gem/1
+
 requirements: [
   titanium/120
-  thorium/150
+  thorium/130
   surge-alloy/50
   phase-fabric/25
 ]
+
+researchCostMultiplier: 0.2
+
 category: crafting
 research: furnace
-outputItem: amethyst-gem/1

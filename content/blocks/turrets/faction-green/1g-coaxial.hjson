@@ -29,8 +29,11 @@ shootType: {
 }
 category: turret
 research: 1g-dimension
+
 requirements: [
   copper/60
   lead/40
   silicon/40
 ]
+
+researchCostMultiplier: 0.4

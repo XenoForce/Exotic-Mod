@@ -46,3 +46,5 @@ requirements: [
   copper/35
   lead/35
 ]
+
+researchCostMultiplier: 0.5

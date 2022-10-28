@@ -64,5 +64,8 @@ ammoTypes: {
 requirements: [
   copper/105
 ]
+
+researchCostMultiplier: 0.3
+
 category: turret
 research: root-node-for-exotic-mod

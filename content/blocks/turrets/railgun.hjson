@@ -71,5 +71,8 @@ requirements: [
   thorium/200
   surge-alloy/450
 ]
+
+researchCostMultiplier: 0.1
+
 category: turret
 research: twin

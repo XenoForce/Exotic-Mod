@@ -38,10 +38,14 @@ ammoTypes: {
     orbSize: 3
   }
 }
+
 category: turret
 research: riptide
+
 requirements: [
   metaglass/350
   thorium/300
   ladera/200
 ]
+
+researchCostMultiplier: 0.3

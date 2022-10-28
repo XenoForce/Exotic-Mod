@@ -18,6 +18,7 @@ shootType: {
   damage: 225440
   lightningLength: 54
 }
+
 requirements: [
   copper/700
   lead/600
@@ -28,5 +29,8 @@ requirements: [
   bluewolframite/700
   draconium/300
 ]
+
+researchCostMultiplier: 0.25
+
 category: turret
 research: railgun

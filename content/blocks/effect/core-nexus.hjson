@@ -6,6 +6,7 @@ category: effect
 unitType: whiplash
 unitCapModifier: 48
 thrusterLength: 15
+
 requirements: [
   copper/12000
   lead/11500
@@ -14,4 +15,7 @@ requirements: [
   surge-alloy/3500
   bluewolframite/1500
 ]
+
+researchCostMultiplier: 0.02
+
 research: root-node-for-exotic-mod
