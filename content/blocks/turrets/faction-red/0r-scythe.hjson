@@ -1,5 +1,6 @@
 type: ItemTurret
 size: 2
+
 targetAir: false
 range: 240
 health: 500
@@ -18,6 +19,7 @@ smokeEffect: shootBigSmoke
 shootSound: artillery
 shake: 0.75
 ammoUseEffect: casing2
+
 ammoTypes: {
   anden: {
     type: ArtilleryBulletType
@@ -36,10 +38,14 @@ ammoTypes: {
   // pyratite: artilleryIncendiary
   // blast-compound: artilleryExplosive
 }
+
 category: turret
 research: 0r-needle
+
 requirements: [
   copper/80
   graphite/70
   anden/55
 ]
+
+researchCostMultiplier: 0.3

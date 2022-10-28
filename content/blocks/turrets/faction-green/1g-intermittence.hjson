@@ -16,6 +16,7 @@ targetHealing: true
 shootSound: shootBig
 shake: 3
 recoil: 5
+
 shootType: {
   type: ContinuousLaserBulletType
   damage: 20
@@ -32,6 +33,7 @@ shootType: {
   colors: [83f79320, 83f79360, 83f793, ffffff]
   hitEffect: hitMeltHeal
 }
+
 category: turret
 research: 1g-instability
 
@@ -43,4 +45,4 @@ requirements: [
   phase-fabric/250
 ]
 
-researchCostMultiplier: 0.15
+researchCostMultiplier: 0.05

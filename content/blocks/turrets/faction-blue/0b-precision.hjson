@@ -11,6 +11,7 @@ shootSound: none
 shootEffect: none
 smokeEffect: none
 // shootLength: 8
+
 shootType: {
   type: ContinuousLaserBulletType
   damage: 12
@@ -37,8 +38,10 @@ shootType: {
     colorTo: 7382f050
   }
 }
+
 category: turret
 research: 0b-wavelength
+
 requirements: [
   copper/200
   lead/200
@@ -46,3 +49,5 @@ requirements: [
   territe-alloy/150
   plastanium/100
 ]
+
+researchCostMultiplier: 0.2

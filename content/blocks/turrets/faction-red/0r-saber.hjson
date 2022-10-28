@@ -1,5 +1,6 @@
 type: ItemTurret
 size: 2
+
 health: 1100
 range: 56
 reload: 45
@@ -12,6 +13,7 @@ shoot: {
 
 shootSound: shotgun
 shake: 0.75
+
 ammoTypes: {
   anden: {
     type: ShrapnelBulletType
@@ -30,10 +32,14 @@ ammoTypes: {
     toColor: f9a3c7
   }
 }
+
 category: turret
 research: 0r-knife
+
 requirements: [
   copper/125
   lead/100
-  anden/85
+  anden/50
 ]
+
+researchCostMultiplier: 0.2

@@ -8,6 +8,7 @@ recoil: 5
 // powerUse: 8
 // shootLength: 7
 shootEffect: shootBig
+
 smokeEffect: {
   type: ParticleEffect
   cone: 25
@@ -21,8 +22,10 @@ smokeEffect: {
   colorFrom: 7382f0
   colorTo: 7382f0
 }
+
 shootSound: laserbig
 shake: 2
+
 shootType: {
   type: ContinuousLaserBulletType
   damage: 75
@@ -59,8 +62,10 @@ shootType: {
     colorTo: 7382f0
   }
 }
+
 category: turret
 research: 0b-wavelength
+
 requirements: [
   copper/400
   graphite/300
@@ -68,3 +73,5 @@ requirements: [
   territe-alloy/150
   phase-fabric/70
 ]
+
+researchCostMultiplier: 0.15

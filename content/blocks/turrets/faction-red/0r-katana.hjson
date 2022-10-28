@@ -1,10 +1,10 @@
 type: ItemTurret
 size: 3
+
 health: 1000
 range: 220
 reload: 15
 recoil: 1.5
-// restitution: 0.08
 
 shoot: {
   type: ShootSpread
@@ -17,6 +17,7 @@ smokeEffect: shootBigSmoke
 shake: 0.5
 shootSound: artillery
 // alternate: true
+
 ammoTypes: {
   anden: {
     damage: 25
@@ -59,11 +60,15 @@ ammoTypes: {
     }
   }
 }
+
 category: turret
 research: 0r-scythe
+
 requirements: [
   lead/200
   metaglass/170
-  anden/160
   plastanium/100
+  anden/60
 ]
+
+researchCostMultiplier: 0.2

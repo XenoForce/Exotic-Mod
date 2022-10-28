@@ -1,6 +1,7 @@
 type: PowerTurret
-targetAir: false
 size: 4
+
+targetAir: false
 rotateSpeed: 0
 // powerUse: 10
 shootCone: 360
@@ -20,6 +21,7 @@ recoil: 0
 shake: 8
 // shootLength: 0
 shootSound: none
+
 shootType: {
   damage: 0
   splashDamage: 30
@@ -44,13 +46,17 @@ shootType: {
   despawnEffect: none
   hitShake: 6
 }
+
 category: turret
 research: 0b-division
+
 requirements: [
-  copper/1000
-  lead/900
-  territe-alloy/450
+  copper/500
+  lead/400
   titanium/350
   thorium/250
-  surge-alloy/200
+  surge-alloy/120
+  territe-alloy/50
 ]
+
+researchCostMultiplier: 0.2

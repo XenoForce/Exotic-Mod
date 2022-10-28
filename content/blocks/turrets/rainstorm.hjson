@@ -1,5 +1,6 @@
 type: LaserTurret
 size: 10
+
 health: 270000
 range: 877
 reload: 300
@@ -8,7 +9,6 @@ loopSound: pulse
 // shootLength: 32
 rotateSpeed: 1.5
 recoil: 4
-// restitution: 0.08
 // powerUse: 4500
 shootDuration: 360
 // chargeTime: 140
@@ -1110,25 +1110,31 @@ shootType: {
     ]
   }
 }
+
 consumes: {
   coolant: {
-    amount: 7
+    amount: 1.7
   }
 }
+
 coolantMultiplier: 0.6
 liquidCapacity: 3500
+
 requirements: [
-  copper/55000
-  lead/65000
-  graphite/35000
-  silicon/40000
-  titanium/30000
-  thorium/25000
-  surge-alloy/10000
-  phase-fabric/12000
-  amethyst-gem/9500
-  bluewolframite/8500
-  shadow/2500
+  copper/3000
+  lead/2500
+  titanium/1600
+  thorium/1500
+  graphite/500
+  silicon/400
+  surge-alloy/300
+  phase-fabric/300
+  amethyst-gem/200
+  bluewolframite/120
+  shadow/120
 ]
+
+researchCostMultiplier: 0.03
+
 category: turret
 research: blade

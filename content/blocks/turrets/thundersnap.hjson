@@ -1,8 +1,9 @@
 type: PowerTurret
+size: 5
+
 health: 177550
 reload: 35
 shootCone: 15
-size: 5
 
 shoot: {
   type: ShootSpread
@@ -13,6 +14,7 @@ shoot: {
 consumes: {
   power: 54
 }
+
 shootType: {
   type: LightningBulletType
   damage: 225440
@@ -20,17 +22,17 @@ shootType: {
 }
 
 requirements: [
-  copper/700
-  lead/600
-  silicon/900
+  copper/450
+  lead/400
   titanium/250
-  thorium/450
-  surge-alloy/750
-  bluewolframite/700
-  draconium/300
+  thorium/250
+  silicon/90
+  surge-alloy/70
+  bluewolframite/40
+  draconium/30
 ]
 
-researchCostMultiplier: 0.25
+researchCostMultiplier: 0.2
 
 category: turret
 research: railgun

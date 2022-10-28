@@ -1,4 +1,6 @@
 type: ItemTurret
+size: 2
+
 reload: 300
 recoil: 0
 rotateSpeed: 0
@@ -6,7 +8,7 @@ shootCone: 360
 range: 400
 heatColor: ffea00
 // cooldown: 0.015
-size: 2
+shootSound: buttonClick
 
 shoot: {
   type: ShootSpread
@@ -19,6 +21,7 @@ inaccuracy: 0
 targetAir: true
 targetGround: true
 maxAmmo: 20
+
 ammoTypes: {
   phase-fabric: {
     sprite: exotic-mod-qpg-wave
@@ -40,17 +43,20 @@ ammoTypes: {
     incendChance: 0
   }
 }
+
 requirements: [
   copper/400
   lead/400
-  titanium/400
-  thorium/450
+  titanium/300
+  thorium/250
+  graphite/200
+  silicon/100
+  amethyst-gem/50
   surge-alloy/40
-  graphite/400
-  silicon/350
-  phase-fabric/700
-  amethyst-gem/700
+  phase-fabric/40
 ]
+
+researchCostMultiplier: 0.2
+
 category: turret
 research: railgun
-shootSound: buttonClick

@@ -1,5 +1,6 @@
 type: PowerTurret
 size: 4
+
 targetGround: false
 health: 3100
 // powerUse: 18
@@ -19,6 +20,7 @@ shootSound: sap
 shake: 0.5
 shootEffect: none
 smokeEffect: none
+
 shootType: {
   damage: 350
   splashDamage: 150
@@ -95,13 +97,17 @@ shootType: {
     colorTo: 7382f0
   }
 }
+
 category: turret
 research: 0b-isosceles
+
 requirements: [
-  copper/1200
-  graphite/700
-  territe-alloy/400
-  metaglass/350
-  phase-fabric/250
-  surge-alloy/175
+  copper/400
+  graphite/300
+  metaglass/150
+  phase-fabric/75
+  surge-alloy/75
+  territe-alloy/40
 ]
+
+researchCostMultiplier: 0.2

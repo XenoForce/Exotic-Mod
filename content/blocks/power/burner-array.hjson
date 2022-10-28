@@ -13,9 +13,9 @@ research: root-node-for-exotic-mod
 requirements: [
   copper/250
   lead/200
-  territe-alloy/90
   thorium/150
+  territe-alloy/90
   amethyst-gem/50
 ]
 
-researchCostMultiplier: 0.15
+researchCostMultiplier: 0.12

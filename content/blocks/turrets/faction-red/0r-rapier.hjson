@@ -1,10 +1,10 @@
 type: ItemTurret
 size: 2
+
 health: 600
 range: 150
 reload: 20
 recoil: 2
-// restitution: 0.05
 
 shoot: {
   type: ShootAlternate
@@ -19,6 +19,7 @@ shootEffect: shootBig
 smokeEffect: shootBigSmoke
 shake: 0.5
 ammoUseEffect: casing3Double
+
 ammoTypes: {
   anden: {
     damage: 14
@@ -82,11 +83,15 @@ ammoTypes: {
     height: 22
   }
 }
+
 category: turret
 research: 0r-knife
+
 requirements: [
   copper/80
   graphite/70
   anden/70
   titanium/60
 ]
+
+researchCostMultiplier: 0.3

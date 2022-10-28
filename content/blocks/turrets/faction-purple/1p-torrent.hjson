@@ -45,7 +45,7 @@ research: riptide
 requirements: [
   metaglass/350
   thorium/300
-  ladera/200
+  ladera/50
 ]
 
-researchCostMultiplier: 0.3
+researchCostMultiplier: 0.2

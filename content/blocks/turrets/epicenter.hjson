@@ -1,15 +1,17 @@
-health: 4600
 type: ItemTurret
+size: 4
+
+health: 4600
 reload: 45
 recoil: 3
 shootCone: 30
 range: 210
-size: 4
 targetAir: true
 targetGround: true
 shootSound: bang
 ammoPerShot: 6
 inaccuracy: 17
+
 ammoTypes: {
   phase-fabric: {
     ammoMultiplier: 1
@@ -117,12 +119,16 @@ ammoTypes: {
     }
   }
 }
-research: potential
-requirements: [
-  copper/1800
-  graphite/1000
-  thorium/800
-  phase-fabric/500
-  amethyst-gem/150
-]
+
 category: turret
+research: potential
+
+requirements: [
+  copper/360
+  thorium/300
+  graphite/130
+  phase-fabric/50
+  amethyst-gem/40
+]
+
+researchCostMultiplier: 0.15

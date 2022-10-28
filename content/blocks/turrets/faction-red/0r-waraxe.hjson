@@ -1,11 +1,13 @@
 type: ItemTurret
 size: 3
+
 health: 1400
 range: 108
 reload: 15
 recoil: 2
 // restitution: 0.06
 shootSound: flame
+
 ammoTypes: {
   coal: {
     damage: 54
@@ -110,11 +112,15 @@ ammoTypes: {
     }
   }
 }
+
 category: turret
 research: 0r-saber
+
 requirements: [
-  copper/500
-  graphite/450
-  anden/400
+  copper/300
   thorium/250
+  graphite/150
+  anden/40
 ]
+
+researchCostMultiplier: 0.2

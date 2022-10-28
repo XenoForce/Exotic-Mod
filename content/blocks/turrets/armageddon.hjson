@@ -1,10 +1,12 @@
 type: ItemTurret
+size: 4
+
+health: 19500
 targetAir: true
 targetGround: true
-health: 19500
-size: 4
 inaccuracy: 12
 reload: 1
+shootSound: bigshot
 
 shoot: {
   type: ShootSpread
@@ -17,13 +19,15 @@ ammoUseEffect: casing3
 shootCone: 25
 rotateSpeed: 1000
 range: 346
+
 consumes: {
   liquid: {
     liquid: water
-    amount: 0.5
+    amount: 0.3
     booster: true
   }
 }
+
 ammoTypes: {
   draconium: {
     speed: 8
@@ -65,17 +69,20 @@ ammoTypes: {
     lifetime: 200
   }
 }
+
 requirements: [
-  titanium/400
-  copper/1200
-  graphite/550
-  thorium/500
-  plastanium/105
-  surge-alloy/400
-  amethyst-gem/400
-  bluewolframite/1000
-  draconium/950
+  copper/350
+  thorium/300
+  graphite/250
+  titanium/200
+  plastanium/150
+  surge-alloy/100
+  amethyst-gem/70
+  draconium/60
+  bluewolframite/50
 ]
+
+researchCostMultiplier: 0.15
+
 category: turret
 research: railgun
-shootSound: bigshot

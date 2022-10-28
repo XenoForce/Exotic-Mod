@@ -1,5 +1,6 @@
 type: ItemTurret
 size: 8
+
 health: 185000
 range: 980
 canOverdrive: false
@@ -10,6 +11,7 @@ reload: 240
 recoil: 14
 // restitution: 0.04
 // chargeTime: 160
+hasLiquids: false
 
 /*
 chargeEffect: {
@@ -131,10 +133,11 @@ chargeEffect: {
 */
 
 consumes: {
-  power: 15.2
+  power: 5.2
 }
 
-ammoPerShot: 18
+ammoPerShot: 8
+
 ammoTypes: {
   bluewolframite: {
     type: RailBulletType
@@ -155,17 +158,17 @@ ammoTypes: {
   }
 }
 
-hasLiquids: false
 category: turret
+research: cascade
 
 requirements: [
-  graphite/23000
-  silicon/25000
-  titanium/23000
-  plastanium/22000
-  phase-fabric/9000
-  bluewolframite/2500
-  shadow/1150
+  titanium/300
+  graphite/230
+  silicon/200
+  plastanium/120
+  phase-fabric/70
+  bluewolframite/25
+  shadow/15
 ]
 
-research: cascade
+researchCostMultiplier: 0.2
