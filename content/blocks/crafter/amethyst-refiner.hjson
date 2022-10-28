@@ -52,7 +52,7 @@ consumes: {
   power: 2
   items: {
     items: [
-      ladera/2
+      coal/2
     ]
   }
   liquid: {
