@@ -81,7 +81,13 @@ weapons: [
   }
 }
 ]
+
 research: {
   parent: outbreak
+  requirements: [
+    lead/600
+    silicon/1100
+    thorium/500
+  ]
   objectives: [recreator]
 }
