@@ -1,7 +1,9 @@
 type: LiquidTurret
+size: 6
+
 placeableLiquid: true
 squareSprite: false
-size: 6
+
 health: 27000
 reload: 3
 rotateSpeed: 4.1
@@ -16,6 +18,7 @@ inaccuracy: 1
 range: 720
 // shootLength: 12
 shootEffect: shootLiquid
+
 ammoTypes: {
   water: {
     type: LiquidBulletType
@@ -44,13 +47,17 @@ ammoTypes: {
     liquid: slag
   }
 }
+
 category: turret
 research: 1p-torrent
+
 requirements: [
-  metaglass/3500
-  graphite/3000
-  titanium/3000
-  baenite/2700
-  ladera/2500
-  amethyst-gem/1200
+  titanium/300
+  metaglass/250
+  graphite/200
+  baenite/70
+  ladera/50
+  amethyst-gem/40
 ]
+
+researchCostMultiplier: 0.2

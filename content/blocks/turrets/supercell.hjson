@@ -1,11 +1,14 @@
 type: ItemTurret
 size: 8
+
 liquidCapacity: 350
 range: 600
 health: 270000
 reload: 15
 recoil: 4
 inaccuracy: 5
+hasLiquids: false
+coolantMultiplier: 0.3
 
 shoot: {
   type: ShootSpread
@@ -15,6 +18,7 @@ shoot: {
 
 xRand: 8
 rotateSpeed: 2.9
+
 ammoTypes: {
   amethyst-gem: {
     damage: 720
@@ -53,19 +57,18 @@ ammoTypes: {
   }
 }
 
-hasLiquids: false
-coolantMultiplier: 0.3
 category: turret
+research: aurora
 
 requirements: [
-  copper/20000
-  graphite/18000
-  plastanium/18000
-  thorium/16000
-  surge-alloy/9000
-  amethyst-gem/2500
-  draconium/1500
-  shadow/1000
+  copper/320
+  thorium/260
+  graphite/180
+  plastanium/120
+  surge-alloy/60
+  amethyst-gem/25
+  draconium/15
+  shadow/10
 ]
 
-research: aurora
+researchCostMultiplier: 0.2

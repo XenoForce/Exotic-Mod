@@ -26,12 +26,12 @@ category: effect
 research: root-node-for-exotic-mod
 
 requirements: [
-  copper/3500
-  lead/4000
-  territe-alloy/3250
-  plastanium/3000
-  surge-alloy/2500
-  amethyst-gem/2000
+  copper/350
+  lead/400
+  plastanium/300
+  surge-alloy/150
+  territe-alloy/100
+  amethyst-gem/100
 ]
 
-researchCostMultiplier: 0.03
+researchCostMultiplier: 0.05

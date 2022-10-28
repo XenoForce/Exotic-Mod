@@ -1,11 +1,11 @@
 type: ItemTurret
-outlineIcon: false
 size: 4
+
 health: 4400
 range: 40
 reload: 15
 recoil: -32
-// restitution: 0.25
+outlineIcon: false
 rotateSpeed: 12
 shootSound: none
 shake: 2
@@ -28,10 +28,12 @@ category: turret
 research: 0r-waraxe
 
 requirements: [
-  copper/1500
-  lead/1200
-  metaglass/700
-  anden/500
-  thorium/450
-  surge-alloy/300
+  copper/250
+  lead/200
+  thorium/150
+  metaglass/70
+  surge-alloy/30
+  anden/20
 ]
+
+researchCostMultiplier: 0.2

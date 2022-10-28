@@ -1,10 +1,11 @@
 type: PowerTurret
 size: 8
-health: 510000
+
+health: 51000
 range: 80
 reload: 140
 recoil: -50
-// restitution: 0.2
+hasLiquids: false
 // powerUse: 1288
 shootSound: none
 
@@ -18,15 +19,16 @@ shootType: {
   status: exotic-mod-bleeding
 }
 
-hasLiquids: false
-research: 0r-halberd
 category: turret
+research: 0r-halberd
 
 requirements: [
-  copper/25000
-  lead/30000
-  thorium/20000
-  surge-alloy/15000
-  draconium/4500
-  shadow/750
+  copper/250
+  lead/230
+  thorium/200
+  surge-alloy/150
+  draconium/45
+  shadow/35
 ]
+
+researchCostMultiplier: 0.2

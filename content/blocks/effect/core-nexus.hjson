@@ -1,19 +1,20 @@
 Type: CoreBlock
+size: 6
+
 health: 26000
 itemCapacity: 45000
-size: 6
 category: effect
 unitType: whiplash
 unitCapModifier: 48
 thrusterLength: 15
 
 requirements: [
-  copper/12000
-  lead/11500
-  silicon/7500
+  copper/7000
+  lead/6000
   thorium/5000
-  surge-alloy/3500
-  bluewolframite/1500
+  silicon/2500
+  surge-alloy/350
+  bluewolframite/150
 ]
 
 researchCostMultiplier: 0.02
