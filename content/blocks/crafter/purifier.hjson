@@ -3,33 +3,35 @@ size: 3
 
 hasLiquids: true
 liquidCapacity: 30
+itemCapacity: 50
 craftEffect: heal
 updateEffect: hitLaser
 
-craftTime: 35
+craftTime: 30
 
 consumes: {
-  power: 1.2
+  power: 1.0
   liquid: {
-    liquid: liquid-baenara
-    amount: 0.4
+    liquid: water
+    amount: 0.2
+  }
+  items: {
+    items: [
+      plastanium/1
+      titanium/1
+    ]
   }
 }
 
 outputItem: baenite/1
-outputLiquid: water/10
 
 category: crafting
-
-research: {
-  parent: amethyst-refiner
-  objectives: [
-    baenite
-  ]
-}
+research: amethyst-refiner
 
 requirements: [
   lead/120
   titanium/90
   thorium/90
 ]
+
+researchCostMultiplier: 0.3
