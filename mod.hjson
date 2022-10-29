@@ -3,9 +3,11 @@ displayName: Exotic Mod - Clone
 author: goldie
 description:
   '''
-  A ported version of the old Exotic Mod, that may actually run on v7 of Mindustry.
+  A working and playable version of Exotic Mod, for v7 of Mindustry.
   
-  WARNING: Not meant for low-end devices.
+  Designed for the Serpulo campaign. (Not for Erekir, not yet anyway.)
+  
+  WARNING: Not recommended for low-end devices.
   
   (For more information, please see the repo page of this mod.)
   
