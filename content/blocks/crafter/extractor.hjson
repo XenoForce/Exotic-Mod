@@ -1,8 +1,6 @@
 type: GenericCrafter
 size: 2
 
-// drawer: drawRotator
-
 craftTime: 60
 
 consumes: {
@@ -41,12 +39,19 @@ craftEffect: {
   sizeTo: 0
 }
 
-category: crafting
-research: root-node-for-exotic-mod
-
 requirements: [
   copper/70
   lead/60
 ]
 
-alwaysUnlocked: true
+category: crafting
+
+research: {
+  parent: root-node-for-exotic-mod
+  requirements: [
+    copper/140
+    lead/120
+    scrap/50
+  ]
+  objectives: [ scrap ]
+}

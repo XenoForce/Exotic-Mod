@@ -1,13 +1,18 @@
 type: Wall
-health: 12000
 size: 1
+
+health: 12000
 chanceDeflect: 870
 insulated: true
 absorbLasers: true
 schematicPriority: 10
+
 requirements: [
   draconium/9
   phase-fabric/3
 ]
+
+researchCostMultiplier: 0.5
+
 category: defense
-research: bluewolframite-wall-huge
+research: amethyst-wall-huge

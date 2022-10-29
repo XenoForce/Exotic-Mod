@@ -10,7 +10,7 @@ requirements: [
   bluewolframite/72
 ]
 
-researchCostMultiplier: 0.5
+researchCostMultiplier: 0.3
 
 category: defense
 research: bluewolframite-wall-large

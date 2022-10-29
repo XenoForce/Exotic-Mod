@@ -52,4 +52,4 @@ requirements: [
 researchCostMultiplier: 0.2
 
 category: crafting
-research: amethyst-refiner
+research: industrial-compressor

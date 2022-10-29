@@ -56,13 +56,14 @@ researchCostMultiplier: 0.02
 category: crafting
 
 research: {
-  parent: refinery
+  parent: wolframite-converter
   objectives: [
-    tri-weaver,
-    amethyst-refiner, 
-    wolframite-converter, 
-    extractor, 
-    furnace,
+    amethyst-refiner
+    extractor
+    furnace
+    refinery
+    tri-weaver
     tungsten-refiner
+    wolframite-converter
   ]
 }

@@ -1,6 +1,5 @@
 hardness: 8
 cost: 4
 color: 7873ba
-research: root-node-for-exotic-mod
 
-alwaysUnlocked: true
+research: amethyst-gem
