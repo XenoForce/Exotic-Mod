@@ -22,7 +22,7 @@ This cloning effort is also released under the GPLv3.
 
 Those who want to, are encouraged to copy and/or fork this mod and modify it, to suit their particular needs.
 
-Just for completeness, here is a link to the original Exotic Mod source code repository: https://github.com/BlueWolf3682/Exotic-Mod
+For completeness, here is a link to the original Exotic Mod source code repository: https://github.com/BlueWolf3682/Exotic-Mod
 
 **Note:**
 
