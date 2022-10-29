@@ -1,14 +1,29 @@
 # Exotic Mod - Clone
 
-This mod started as a clone of the original Exotic Mod. The goals of this project are the following:
+This is a working and playable clone of the original Exotic Mod.
 
-Port the original Exotic Mod to Mindustry v7. (I suspect the original content creator may never actually port this particular version of Exotic Mod to Mindustry v7, and therefore I decided to give it a try, as a learning exercise.)
+This mod runs under Mindustry v7.
+
+In order to make this mod run under Mindustry v7, numerous changes were made to the original source code.
+
+(It is believed that the original content creator may never actually port this particular version of Exotic Mod to Mindustry v7, because he/she is already working on a completely new version of Exotic Mod, which is basically a complete re-write of everything.)
+
+In order to make this mod work smoothly, and have a logical gameplay progression through the components of this mod, numerous changes were made to the original source code.
+
+In most cases, the research costs of individual, unlockable components on the Tech Tree, was reduced to more reasonable values, in an effort to reduce the grinding burdon put on the player.
+
+In some places, where the code was not yet finished by the original content creator, the missing parts were filled in, 
+
+
+
+
+**Disclaimer:**
 
 At the time when this clone was made, Exotic Mod was released under the GPLv3.
 
 This cloning effort is also released under the GPLv3.
 
-Those who want to, are encouraged to copy this mod and modify it, to suit their particular needs.
+Those who want to, are encouraged to copy and/or fork this mod and modify it, to suit their particular needs.
 
 Just for completeness, here is a link to the original Exotic Mod source code repository: https://github.com/BlueWolf3682/Exotic-Mod
 
