@@ -1,19 +1,22 @@
 type: CoreBlock
-unitType: shockwave
-health: 450000
-unitCapModifier: 125
-itemCapacity: 125000
 size: 8
-category: effect
+
+health: 85000
+itemCapacity: 145000
+unitType: shockwave
+unitCapModifier: 125
 thrusterLength: 20
+
 requirements: [
-  copper/35250
-  lead/34550
-  silicon/30550
-  thorium/25500
-  bluewolframite/15500
-  draconium/12550
-  amethyst-gem/11550
-  shadow/1100
+  copper/9500
+  lead/8500
+  thorium/5500
+  silicon/3500
+  draconium/250
+  shadow/110
 ]
-research: core-nexus
+
+researchCostMultiplier: 0.02
+
+category: effect
+research: core-radian

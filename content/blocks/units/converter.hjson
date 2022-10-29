@@ -11,12 +11,12 @@ consumes: {
       titanium/400
       thorium/300
       baenite/150
-      tungsten/120
+      tungstung/120
     ]
   }
   liquid: {
     liquid: cryofluid
-    amount: 0.4
+    amount: 0.1
   }
 }
 
@@ -34,7 +34,7 @@ requirements: [
   surge-alloy/60
   baenite/40
   amethyst-gem/25
-  tungsten/20
+  tungstung/20
 ]
 
 researchCostMultiplier: 0.15

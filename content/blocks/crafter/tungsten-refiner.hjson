@@ -20,7 +20,7 @@ consumes: {
   }
 }
 
-outputItem: tungsten/2
+outputItem: tungstung/2
 
 requirements: [
   amethyst-gem/20

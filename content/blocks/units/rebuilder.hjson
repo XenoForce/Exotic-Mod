@@ -11,12 +11,12 @@ consumes: {
       lead/300
       titanium/300
       amethyst-gem/50
-      tungsten/50
+      tungstung/50
     ]
   }
   liquid: {
     liquid: cryofluid
-    amount: 0.2
+    amount: 0.1
   }
 }
 
@@ -31,7 +31,7 @@ requirements: [
   titanium/500
   thorium/400
   amethyst-gem/80
-  tungsten/70
+  tungstung/70
   bluewolframite/60
 ]
 

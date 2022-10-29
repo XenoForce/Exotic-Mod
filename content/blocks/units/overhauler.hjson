@@ -12,13 +12,13 @@ consumes: {
       thorium/200
       plastanium/150
       baenite/70
-      tungsten/50
+      tungstung/50
       draconium/20
     ]
   }
   liquid: {
     liquid: supercoolant
-    amount: 0.2
+    amount: 0.1
   }
 }
 
