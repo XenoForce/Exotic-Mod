@@ -10,12 +10,9 @@ In order to make this mod run under Mindustry v7, numerous changes were made to 
 
 In order to make this mod work smoothly, and have a logical gameplay progression through the components of this mod, numerous changes were made to the original source code.
 
-In most cases, the research costs of individual, unlockable components on the Tech Tree, was reduced to more reasonable values, in an effort to reduce the grinding burdon put on the player.
+In most cases, the research cost of individual, unlockable components on the Tech Tree, was reduced to more reasonable values, in an effort to reduce the grinding burdon put on the player.
 
-In some places, where the code was not yet finished by the original content creator, the missing parts were filled in, 
-
-
-
+In some places where the code was obviously still incomplete, the missing parts were filled in.
 
 **Disclaimer:**
 
