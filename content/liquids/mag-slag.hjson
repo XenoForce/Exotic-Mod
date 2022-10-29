@@ -5,4 +5,5 @@ heatCapacity: 0
 explosiveness: 4
 effect: melting
 color: ff7d3c
+
 research: wolframite

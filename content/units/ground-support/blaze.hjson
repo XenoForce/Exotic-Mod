@@ -23,6 +23,7 @@ rippleScale: 6
 allowLegStep: true
 lightRadius: 100
 lightColor: 84f591
+
 weapons: [
   {
     name: blaze-weapon
@@ -56,6 +57,7 @@ weapons: [
     }
   }
 ]
+
 abilities: [
   {
     type: RepairFieldAbility
@@ -71,3 +73,14 @@ abilities: [
     cooldown: 360
   }
 ]
+
+research: {
+  parent: cinder
+  requirements: [
+    titanium/800
+    thorium/600
+    baenite/150
+    tungsten/120
+  ]
+  objectives: [converter]
+}

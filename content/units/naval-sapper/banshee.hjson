@@ -19,6 +19,7 @@ trailScl: 4
 trailLength: 60
 lightRadius: 110
 lightColor: a488eb
+
 weapons: [
   {
     name: spirit-weapon
@@ -111,3 +112,14 @@ weapons: [
     }
   }
 ]
+
+research: {
+  parent: wraith
+  requirements: [
+    titanium/800
+    thorium/600
+    baenite/150
+    tungsten/120
+  ]
+  objectives: [converter]
+}

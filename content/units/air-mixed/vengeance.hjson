@@ -15,6 +15,7 @@ engineOffset: 48
 engineSize: 9
 lightRadius: 120
 lightColor: 6f7fe8
+
 weapons: [
   {
     name: vengeance-laser
@@ -53,6 +54,7 @@ weapons: [
     }
   }
 ]
+
 abilities: [
   {
     type: UnitSpawnAbility
@@ -104,3 +106,14 @@ abilities: [
     spawnTime: 1280
   }
 ]
+
+research: {
+  parent: harmony
+  requirements: [
+    titanium/800
+    thorium/600
+    baenite/150
+    tungsten/120
+  ]
+  objectives: [converter]
+}

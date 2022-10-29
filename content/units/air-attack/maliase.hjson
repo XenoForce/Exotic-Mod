@@ -13,6 +13,7 @@ engineSize: 10
 lowAltitude: true
 lightRadius: 90
 lightColor: e65555
+
 weapons: [
   {
     name: maliase-blade
@@ -154,6 +155,7 @@ weapons: [
     }
   }
 ]
+
 abilities: [
   {
     type: MoveLightningAbility
@@ -165,4 +167,21 @@ abilities: [
     chance: 0.5
   }
 ]
-immunities: [wet, freezing, burning, melting]
+
+immunities: [
+  wet
+  freezing
+  burning
+  melting
+]
+
+research: {
+  parent: disease
+  requirements: [
+    titanium/800
+    thorium/600
+    baenite/150
+    tungsten/120
+  ]
+  objectives: [converter]
+}

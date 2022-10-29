@@ -16,10 +16,12 @@ lightRadius: 130
 lightColor: 5a58c4
 lowAltitude: true
 shadowElevation: 1.4
+
 ammoType: {
   type: PowerAmmoType
   totalPower: 750000
 }
+
 weapons: [
   {
     name: fearless-shockwave
@@ -277,7 +279,9 @@ weapons: [
     }
   }
 ]
+
 fallSpeed: 0.004
+
 fallEffect: {
   type: ParticleEffect
   line: true
@@ -290,6 +294,7 @@ fallEffect: {
   lenFrom: 14
   lenTo: 14
 }
+
 deathExplosionEffect: {
   type: MultiEffect
   lifetime: 500
@@ -339,4 +344,15 @@ deathExplosionEffect: {
       colorTo: 7382f050
     }
   ]
+}
+
+research: {
+  parent: vengeance
+  requirements: [
+    titanium/800
+    thorium/800
+    plastanium/150
+    draconium/120
+  ]
+  objectives: [overhauler]
 }

@@ -9,6 +9,7 @@ engineSize: 9.3
 circleTarget: true
 lightRadius: 120
 lightColor: e65555
+
 weapons: [
   {
     name: plague-ram
@@ -28,6 +29,7 @@ weapons: [
     }
   }
 ]
+
 abilities: [
   {
     type: MoveLightningAbility
@@ -52,3 +54,14 @@ abilities: [
     }
   }
 ]
+
+research: {
+  parent: maliase
+  requirements: [
+    titanium/800
+    thorium/800
+    plastanium/150
+    draconium/120
+  ]
+  objectives: [overhauler]
+}

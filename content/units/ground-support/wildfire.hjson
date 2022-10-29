@@ -20,6 +20,7 @@ rippleScale: 8
 // maxStretch: 1.5
 lightRadius: 160
 lightColor: 84f591
+
 weapons: [
   {
     name: wildfire-sphere
@@ -213,6 +214,7 @@ weapons: [
     }
   }
 ]
+
 abilities: [
   {
     type: StatusFieldAbility
@@ -240,3 +242,14 @@ abilities: [
     cooldown: 400
   }
 ]
+
+research: {
+  parent: blaze
+  requirements: [
+    titanium/800
+    thorium/800
+    plastanium/150
+    draconium/120
+  ]
+  objectives: [overhauler]
+}
