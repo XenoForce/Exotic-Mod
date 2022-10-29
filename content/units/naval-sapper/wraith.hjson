@@ -7,6 +7,7 @@ rotateSpeed: 1.4
 // rotateShooting: false
 lightRadius: 100
 lightColor: a488eb
+
 weapons: [
   {
     name: spirit-weapon
@@ -128,6 +129,7 @@ weapons: [
     }
   }
 ]
+
 abilities: [
   {
     type: StatusFieldAbility
@@ -137,3 +139,14 @@ abilities: [
     effect: exotic-mod-sap-heal
   }
 ]
+
+research: {
+  parent: ghost
+  requirements: [
+    lead/1300
+    titanium/1300
+    amethyst-gem/150
+    tungsten/150
+  ]
+  objectives: [rebuilder]
+}

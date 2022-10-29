@@ -12,6 +12,7 @@ engineSize: 12
 rotateSpeed: 0.85
 lightRadius: 90
 lightColor: 84f591
+
 weapons: [
   {
     name: cinder-cannon
@@ -106,6 +107,7 @@ weapons: [
     }
   }
 ]
+
 abilities: [
   {
     type: UnitSpawnAbility
@@ -135,3 +137,14 @@ abilities: [
     cooldown: 240
   }
 ]
+
+research: {
+  parent: ember
+  requirements: [
+    lead/1300
+    titanium/1300
+    amethyst-gem/150
+    tungsten/150
+  ]
+  objectives: [rebuilder]
+}

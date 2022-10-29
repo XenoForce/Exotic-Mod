@@ -14,6 +14,7 @@ circleTarget: true
 // rotateShooting: false
 lightRadius: 90
 lightColor: e65555
+
 weapons: [
   {
     name: disease-weapon
@@ -158,6 +159,7 @@ weapons: [
     }
   }
 ]
+
 abilities: [
   {
     type: MoveLightningAbility
@@ -169,3 +171,14 @@ abilities: [
     color: e65555
   }
 ]
+
+research: {
+  parent: pathogen
+  requirements: [
+    lead/1300
+    titanium/1300
+    amethyst-gem/150
+    tungsten/150
+  ]
+  objectives: [rebuilder]
+}

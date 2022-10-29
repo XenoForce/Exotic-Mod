@@ -10,6 +10,7 @@ rotateSpeed: 3
 // rotateShooting: false
 lightRadius: 75
 lightColor: a488eb
+
 weapons: [
 {
   name: spirit-weapon

@@ -15,7 +15,7 @@ consumes: {
   power: 2.6
   items: {
     items: [
-      wolframite/3
+      titanium/3
     ]
   }
 }

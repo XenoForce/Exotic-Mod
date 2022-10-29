@@ -15,6 +15,7 @@ engineOffset: 44
 engineSize: 10
 lightRadius: 100
 lightColor: 6f7fe8
+
 weapons: [
   {
     name: harmony-laser
@@ -93,6 +94,7 @@ weapons: [
     }
   }
 ]
+
 abilities: [
   {
     type: UnitSpawnAbility
@@ -109,3 +111,14 @@ abilities: [
     spawnTime: 1440
   }
 ]
+
+research: {
+  parent: endeavour
+  requirements: [
+    lead/1300
+    titanium/1300
+    amethyst-gem/150
+    tungsten/150
+  ]
+  objectives: [rebuilder]
+}
