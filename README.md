@@ -26,7 +26,7 @@ For completeness, here is a link to the original Exotic Mod source code reposito
 
 **Note:**
 
-For those who don't want to spend hours and days gathering all the required resources (items), in order to unlock all the components of this Exotic Mod clone, consider using one (or both) of the following companion mods:
+For those who don't want to spend hours and days gathering all the required resources (items), in order to unlock all the components of this mod, consider using one (or both) of the following companion mods:
 
  * https://github.com/XenoForce/Exotic-Mod-Unleashed
 
