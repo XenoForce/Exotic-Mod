@@ -20,7 +20,7 @@ At the time when this clone was made, Exotic Mod was released under the GPLv3.
 
 This cloning effort is also released under the GPLv3.
 
-Those who want to, are encouraged to copy and/or fork this mod and modify it, to suit their particular needs.
+Those who want to, are encouraged to copy this mod and modify it, to suit their particular needs.
 
 For completeness, here is a link to the original Exotic Mod source code repository: https://github.com/BlueWolf3682/Exotic-Mod
 
